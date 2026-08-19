@@ -300,13 +300,19 @@ def compute_trade_stats(trades):
 def translate_to_ja(text):
     """
     Google翻訳の非公式エンドポイント(キー不要、無料)で英語の見出しを日本語に変換する。
-    失敗した場合は原文(英語)をそのまま返す（ニュース欄自体は止めない設計）。
+    失敗した場合、または結果が壊れた文字（対になっていないサロゲート等、非公式
+    エンドポイントが時々返す不完全なレスポンスに由来）を含む場合は、
+    原文(英語)をそのまま返す（ニュース欄自体は止めない設計、文字化けより英語表示を優先）。
     """
     try:
         params = urllib.parse.urlencode({"client": "gtx", "sl": "en", "tl": "ja", "dt": "t", "q": text})
         url = f"{TRANSLATE_URL}?{params}"
         data = http_get_json(url, retries=1)
-        return "".join(seg[0] for seg in data[0] if seg[0])
+        result = "".join(seg[0] for seg in data[0] if seg[0])
+        result.encode("utf-8")  # 壊れた文字(対になっていないサロゲート等)が無いか検証。あれば例外発生
+        if not result.strip():
+            return text
+        return result
     except Exception:  # noqa: BLE001
         return text
 
