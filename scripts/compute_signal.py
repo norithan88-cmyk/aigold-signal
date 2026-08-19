@@ -39,8 +39,11 @@ import statistics
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 YAHOO_CHART_URL = "https://query1.finance.yahoo.com/v8/finance/chart/GC=F"
 
@@ -49,6 +52,16 @@ EDGE_THRESHOLD = 1.3
 REVERT_WINDOW = 10
 REVERT_MIN_USD = 8.0
 SL_BUFFER_USD = 6.0
+
+# 「LATEST NEWS」欄用。金の日本語専用ニュースRSSが見つからなかったため、
+# 英語のFXStreet（為替・商品ニュース）から取得し、gold関連のキーワードで絞り込んだ上で
+# 無料の翻訳エンドポイント(Google翻訳の非公式API、キー不要)で日本語に変換して表示する。
+NEWS_FEEDS = [
+    ("FXStreet", "https://www.fxstreet.com/rss/news"),
+]
+NEWS_KEYWORDS = ("gold", "xau", "precious metal", "bullion")
+MAX_NEWS_AGE_HOURS = 24
+TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 
 
 def http_get_json(url, retries=3, wait_sec=5):
@@ -284,6 +297,83 @@ def compute_trade_stats(trades):
     }
 
 
+def translate_to_ja(text):
+    """
+    Google翻訳の非公式エンドポイント(キー不要、無料)で英語の見出しを日本語に変換する。
+    失敗した場合は原文(英語)をそのまま返す（ニュース欄自体は止めない設計）。
+    """
+    try:
+        params = urllib.parse.urlencode({"client": "gtx", "sl": "en", "tl": "ja", "dt": "t", "q": text})
+        url = f"{TRANSLATE_URL}?{params}"
+        data = http_get_json(url, retries=1)
+        return "".join(seg[0] for seg in data[0] if seg[0])
+    except Exception:  # noqa: BLE001
+        return text
+
+
+def fetch_one_news_feed(source, url):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=15) as res:
+        raw = res.read()
+    root = ET.fromstring(raw)
+    items = []
+    for item in root.findall(".//item"):
+        title_el = item.find("title")
+        link_el = item.find("link")
+        pubdate_el = item.find("pubDate")
+        if title_el is None or not title_el.text or link_el is None or not link_el.text:
+            continue
+        published_at = None
+        if pubdate_el is not None and pubdate_el.text:
+            try:
+                published_at = parsedate_to_datetime(pubdate_el.text)
+                if published_at.tzinfo is None:
+                    published_at = published_at.replace(tzinfo=timezone.utc)
+            except (TypeError, ValueError):
+                published_at = None
+        items.append({
+            "source": source,
+            "title_en": title_el.text.strip(),
+            "link": link_el.text.strip(),
+            "published_at_utc": published_at.astimezone(timezone.utc).isoformat() if published_at else None,
+        })
+    return items
+
+
+def is_gold_related(title):
+    lowered = title.lower()
+    return any(kw in lowered for kw in NEWS_KEYWORDS)
+
+
+def fetch_news_headlines(limit=6):
+    """
+    FXStreetのRSSから金(gold/XAU)関連の見出しだけを抽出し、日本語に翻訳して返す。
+    取得・翻訳いずれかに失敗しても、シグナル本体の計算は止めない。
+    """
+    all_items = []
+    for source, url in NEWS_FEEDS:
+        try:
+            all_items.extend(fetch_one_news_feed(source, url))
+        except Exception as e:  # noqa: BLE001
+            print(f"[WARN] {source}のRSS取得に失敗しました（続行します）: {e}", file=sys.stderr)
+    all_items.sort(key=lambda it: it["published_at_utc"] or "", reverse=True)
+    now = datetime.now(timezone.utc)
+    fresh = []
+    for it in all_items:
+        if not it["published_at_utc"]:
+            continue
+        if not is_gold_related(it["title_en"]):
+            continue
+        published_at = datetime.fromisoformat(it["published_at_utc"])
+        if (now - published_at).total_seconds() <= MAX_NEWS_AGE_HOURS * 3600:
+            fresh.append(it)
+        if len(fresh) >= limit:
+            break
+    for it in fresh:
+        it["title"] = translate_to_ja(it["title_en"])
+    return fresh
+
+
 def build_signal(out_path=None):
     now = datetime.now(timezone.utc)
 
@@ -291,6 +381,12 @@ def build_signal(out_path=None):
     h1 = fetch_gold_bars("60m", "2y")
     d1 = fetch_gold_bars("1d", "5y")
     h4 = aggregate_to_4h(h1)
+
+    try:
+        news_headlines = fetch_news_headlines()
+    except Exception as e:  # noqa: BLE001
+        print(f"[WARN] ニュース見出しの取得に失敗しました（続行します）: {e}", file=sys.stderr)
+        news_headlines = []
 
     ch_15m = linear_regression_channel([b["c"] for b in m15])
     ch_1h = linear_regression_channel([b["c"] for b in h1])
@@ -419,6 +515,7 @@ def build_signal(out_path=None):
         ],
         "commentary": commentary,
         "market_context": market_context,
+        "news": news_headlines,
         "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。",
     }
 
