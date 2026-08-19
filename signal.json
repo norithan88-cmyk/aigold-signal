@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-19T21:16:05.698234+00:00",
+  "generated_at_utc": "2026-08-19T21:47:05.904385+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4580.7,
   "day_change_pct": 0.0,
@@ -29,9 +29,9 @@
       "label": "1時間足",
       "position_sigma": 2.54,
       "momentum": "UP",
-      "mid": 4478.78,
-      "upper": 4559.15,
-      "lower": 4398.41
+      "mid": 4478.75,
+      "upper": 4559.09,
+      "lower": 4398.42
     },
     {
       "key": "h4",
