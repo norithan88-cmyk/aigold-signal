@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-08-20T23:16:10.670450+00:00",
+  "generated_at_utc": "2026-08-20T23:46:44.763426+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4586.0,
-  "day_change_pct": 0.0,
+  "latest_price": 4577.8,
+  "day_change_pct": -0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,34 +27,41 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.8,
+      "position_sigma": 0.64,
       "momentum": "FLAT",
-      "mid": 4549.71,
-      "upper": 4640.32,
-      "lower": 4459.1
+      "mid": 4549.13,
+      "upper": 4639.53,
+      "lower": 4458.73
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.16,
+      "position_sigma": 0.04,
       "momentum": "FLAT",
-      "mid": 4575.71,
-      "upper": 4702.48,
-      "lower": 4448.94
+      "mid": 4575.45,
+      "upper": 4702.19,
+      "lower": 4448.7
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.16,
+      "position_sigma": 3.12,
       "momentum": "UP",
-      "mid": 4042.13,
-      "upper": 4386.46,
-      "lower": 3697.79
+      "mid": 4041.81,
+      "upper": 4385.64,
+      "lower": 3697.98
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,586.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,577.8付近で推移（直近1時間比-0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold drifts higher above $4,500 on US Treasury buyback",
+      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-500-on-us-treasury-buyback-202608202337",
+      "published_at_utc": "2026-08-20T23:37:16+00:00",
+      "title": "米国債の買い戻しを受けて金は4,500ドルを超えて上昇"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold pulls back as US yields recover after Treasury buyback",
