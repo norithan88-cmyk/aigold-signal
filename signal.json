@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-20T08:25:24.614604+00:00",
+  "generated_at_utc": "2026-08-20T09:03:11.712513+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4551.3,
+  "latest_price": 4547.1,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,40 +27,40 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.88,
+      "position_sigma": 0.8,
       "momentum": "FLAT",
-      "mid": 4512.6,
-      "upper": 4600.09,
-      "lower": 4425.11
+      "mid": 4512.27,
+      "upper": 4599.61,
+      "lower": 4424.93
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.18,
+      "position_sigma": -0.24,
       "momentum": "FLAT",
-      "mid": 4562.45,
-      "upper": 4689.17,
-      "lower": 4435.74
+      "mid": 4562.34,
+      "upper": 4689.06,
+      "lower": 4435.62
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.98,
+      "position_sigma": 2.96,
       "momentum": "UP",
-      "mid": 4040.76,
-      "upper": 4382.96,
-      "lower": 3698.56
+      "mid": 4040.6,
+      "upper": 4382.55,
+      "lower": 3698.64
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,551.3付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,547.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold remains depressed below $4,500 amid hawkish Fed; weak USD sentiment limits losses",
+      "title_en": "Gold bears seem hesitant as sustained USD selling offsets hawkish Fed and Iran risks",
       "link": "https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354",
       "published_at_utc": "2026-08-20T03:54:54+00:00",
-      "title": "FRBのタカ派化の影響で金は依然として4,500ドル以下に低迷している。弱い米ドルセンチメントが損失を限定"
+      "title": "持続的な米ドル売りがタカ派FRBとイランのリスクを相殺するため、金の弱気派は躊躇しているようだ"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
