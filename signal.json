@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T11:59:41.925918+00:00",
+  "generated_at_utc": "2026-08-21T12:51:55.926883+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4655.8,
+  "latest_price": 4626.8,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,34 +27,41 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 1.2,
+      "position_sigma": 0.53,
       "momentum": "FLAT",
-      "mid": 4599.64,
-      "upper": 4693.22,
-      "lower": 4506.06
+      "mid": 4602.38,
+      "upper": 4695.02,
+      "lower": 4509.75
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.97,
+      "position_sigma": 0.42,
       "momentum": "FLAT",
-      "mid": 4593.79,
-      "upper": 4721.15,
-      "lower": 4466.44
+      "mid": 4599.73,
+      "upper": 4727.17,
+      "lower": 4472.3
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.36,
+      "position_sigma": 3.23,
       "momentum": "UP",
-      "mid": 4052.45,
-      "upper": 4411.45,
-      "lower": 3693.45
+      "mid": 4051.34,
+      "upper": 4408.48,
+      "lower": 3694.19
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,655.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,626.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold: Safe-haven bid on US debt worries – Commerzbank",
+      "link": "https://www.fxstreet.com/news/gold-safe-haven-bid-on-us-debt-worries-commerzbank-202608211214",
+      "published_at_utc": "2026-08-21T12:14:30+00:00",
+      "title": "金：米国債務懸念に対する安全逃避先の入札 – コメルツ銀行"
+    },
     {
       "source": "FXStreet",
       "title_en": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
