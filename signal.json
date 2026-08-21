@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T17:27:22.581885+00:00",
+  "generated_at_utc": "2026-08-21T17:55:20.557117+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4681.8,
+  "latest_price": 4676.3,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 1.1,
+      "position_sigma": 0.99,
       "momentum": "FLAT",
-      "mid": 4630.75,
-      "upper": 4723.63,
-      "lower": 4537.86
+      "mid": 4630.34,
+      "upper": 4723.0,
+      "lower": 4537.68
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.12,
+      "position_sigma": 1.03,
       "momentum": "FLAT",
-      "mid": 4610.03,
-      "upper": 4738.75,
-      "lower": 4481.3
+      "mid": 4609.81,
+      "upper": 4738.42,
+      "lower": 4481.2
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.49,
+      "position_sigma": 3.46,
       "momentum": "UP",
-      "mid": 4053.49,
-      "upper": 4414.31,
-      "lower": 3692.68
+      "mid": 4053.26,
+      "upper": 4413.66,
+      "lower": 3692.86
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,681.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,676.3付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -67,7 +67,7 @@
       "title_en": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
       "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
       "published_at_utc": "2026-08-21T11:06:55+00:00",
-      "title": "4,600ドル：金が3カ月ぶりの高値に上昇、週間で3度目の上昇が期待される"
+      "title": "4,600ドル：金が3カ月ぶりの高値に上昇、週間で3度目の上昇が見込まれる"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
