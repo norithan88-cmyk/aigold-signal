@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-21T19:35:07.058106+00:00",
+  "generated_at_utc": "2026-08-21T19:54:59.284474+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4679.5,
+  "latest_price": 4675.4,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.84,
+      "position_sigma": 0.75,
       "momentum": "FLAT",
-      "mid": 4640.89,
-      "upper": 4733.33,
-      "lower": 4548.45
+      "mid": 4640.57,
+      "upper": 4732.88,
+      "lower": 4548.26
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.08,
+      "position_sigma": 1.02,
       "momentum": "FLAT",
-      "mid": 4609.93,
-      "upper": 4738.61,
-      "lower": 4481.26
+      "mid": 4609.77,
+      "upper": 4738.36,
+      "lower": 4481.18
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.47,
+      "position_sigma": 3.45,
       "momentum": "UP",
-      "mid": 4053.38,
-      "upper": 4414.01,
-      "lower": 3692.76
+      "mid": 4053.22,
+      "upper": 4413.56,
+      "lower": 3692.88
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,679.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,675.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -64,17 +64,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold: Upside asymmetry into next week – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350",
-      "published_at_utc": "2026-08-21T13:50:36+00:00",
-      "title": "金：来週まで上値非対称 – TD Securities"
-    },
-    {
-      "source": "FXStreet",
       "title_en": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
       "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
       "published_at_utc": "2026-08-21T11:06:55+00:00",
-      "title": "4,600ドル：金が3カ月ぶりの高値に上昇、週間で3度目の上昇が見込まれる"
+      "title": "4,600ドル：金が3カ月ぶりの高値に上昇、週間で3度目の上昇が期待される"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
