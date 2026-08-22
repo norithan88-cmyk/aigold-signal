@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T15:42:32.317199+00:00",
+  "generated_at_utc": "2026-08-22T15:56:43.901764+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4680.6,
   "day_change_pct": 0.13,
@@ -29,18 +29,18 @@
       "label": "1時間足",
       "position_sigma": 0.86,
       "momentum": "FLAT",
-      "mid": 4640.75,
-      "upper": 4733.13,
-      "lower": 4548.37
+      "mid": 4640.77,
+      "upper": 4733.14,
+      "lower": 4548.41
     },
     {
       "key": "h4",
       "label": "4時間足",
       "position_sigma": 0.97,
       "momentum": "FLAT",
-      "mid": 4617.93,
-      "upper": 4746.91,
-      "lower": 4488.96
+      "mid": 4617.9,
+      "upper": 4746.89,
+      "lower": 4488.91
     },
     {
       "key": "d1",
@@ -60,7 +60,7 @@
       "title_en": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
       "link": "https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756",
       "published_at_utc": "2026-08-21T17:56:27+00:00",
-      "title": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally"
+      "title": "中東のリスク上昇で金、4,600ドルを超える3カ月ぶりの高値に到達"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
