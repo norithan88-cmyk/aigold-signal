@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-22T05:50:07.919582+00:00",
+  "generated_at_utc": "2026-08-22T06:21:27.721129+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4661.6,
   "day_change_pct": -0.28,
@@ -29,18 +29,18 @@
       "label": "1時間足",
       "position_sigma": 0.47,
       "momentum": "FLAT",
-      "mid": 4640.0,
-      "upper": 4732.12,
-      "lower": 4547.87
+      "mid": 4640.02,
+      "upper": 4732.14,
+      "lower": 4547.91
     },
     {
       "key": "h4",
       "label": "4時間足",
       "position_sigma": 0.69,
       "momentum": "FLAT",
-      "mid": 4617.18,
-      "upper": 4745.84,
-      "lower": 4488.52
+      "mid": 4617.15,
+      "upper": 4745.82,
+      "lower": 4488.48
     },
     {
       "key": "d1",
@@ -67,7 +67,7 @@
       "title_en": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
       "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
       "published_at_utc": "2026-08-21T11:06:55+00:00",
-      "title": "4,600ドル：金が3カ月ぶりの高値に上昇、週間で3度目の上昇が期待される"
+      "title": "4,600ドル：金は3カ月ぶりの高値に上昇、週間で3度目の上昇が見込まれる"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
