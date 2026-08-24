@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T20:01:30.175499+00:00",
+  "generated_at_utc": "2026-08-24T20:45:57.704174+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4708.4,
+  "latest_price": 4704.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:下方向 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,47 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.21,
-      "momentum": "FLAT",
-      "mid": 4745.74,
-      "upper": 4807.71,
-      "lower": 4683.78
+      "position_sigma": -1.41,
+      "momentum": "DOWN",
+      "mid": 4748.36,
+      "upper": 4810.26,
+      "lower": 4686.47
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.75,
+      "position_sigma": 0.61,
       "momentum": "FLAT",
-      "mid": 4659.48,
-      "upper": 4790.57,
-      "lower": 4528.38
+      "mid": 4664.92,
+      "upper": 4795.79,
+      "lower": 4534.05
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.37,
+      "position_sigma": 3.35,
       "momentum": "UP",
-      "mid": 4068.71,
-      "upper": 4448.34,
-      "lower": 3689.09
+      "mid": 4068.57,
+      "upper": 4447.93,
+      "lower": 3689.2
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,708.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,704.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "Gold rallies as Iran sanctions stoke haven demand",
       "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-sanctions-stoke-haven-demand-202608241820",
       "published_at_utc": "2026-08-24T18:20:57+00:00",
-      "title": "イラン制裁で避難所の需要が高まり、金が上昇"
+      "title": "Gold rallies as Iran sanctions stoke haven demand"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold extends gains as US Treasury buyback fallout keeps buyers in control",
       "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
       "published_at_utc": "2026-08-24T11:07:10+00:00",
-      "title": "米国債買い戻しの影響で買い手が主導権を握る中、金は上昇幅を拡大"
+      "title": "Gold extends gains as US Treasury buyback fallout keeps buyers in control"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
