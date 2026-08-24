@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T10:02:21.530035+00:00",
+  "generated_at_utc": "2026-08-24T10:50:57.437481+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4698.1,
+  "latest_price": 4705.2,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,47 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.28,
+      "position_sigma": -0.21,
       "momentum": "FLAT",
-      "mid": 4707.82,
-      "upper": 4778.48,
-      "lower": 4637.17
+      "mid": 4712.48,
+      "upper": 4781.98,
+      "lower": 4642.97
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.79,
+      "position_sigma": 0.89,
       "momentum": "FLAT",
-      "mid": 4646.63,
-      "upper": 4777.35,
-      "lower": 4515.91
+      "mid": 4646.91,
+      "upper": 4777.74,
+      "lower": 4516.07
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.32,
+      "position_sigma": 3.36,
       "momentum": "UP",
-      "mid": 4068.31,
-      "upper": 4447.24,
-      "lower": 3689.38
+      "mid": 4068.59,
+      "upper": 4448.01,
+      "lower": 3689.18
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,698.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,705.2付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pushes-higher-but-overbought-rsi-warns-bulls-202608241026",
+      "published_at_utc": "2026-08-24T10:26:24+00:00",
+      "title": "Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold: Debasement narrative lifts prices – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-debasement-narrative-lifts-prices-td-securities-202608240842",
       "published_at_utc": "2026-08-24T08:42:19+00:00",
       "title": "Gold: Debasement narrative lifts prices – TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold: Upside risks building as fiscal worries grow – ING",
-      "link": "https://www.fxstreet.com/news/gold-upside-risks-building-as-fiscal-worries-grow-ing-202608240658",
-      "published_at_utc": "2026-08-24T06:58:05+00:00",
-      "title": "Gold: Upside risks building as fiscal worries grow – ING"
     },
     {
       "source": "FXStreet",
