@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T04:21:07.127747+00:00",
+  "generated_at_utc": "2026-08-24T05:08:30.139215+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4690.2,
+  "latest_price": 4695.4,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,40 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.55,
+      "position_sigma": 0.67,
       "momentum": "FLAT",
-      "mid": 4666.61,
-      "upper": 4751.89,
-      "lower": 4581.33
+      "mid": 4666.88,
+      "upper": 4752.25,
+      "lower": 4581.51
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.8,
+      "position_sigma": 0.87,
       "momentum": "FLAT",
-      "mid": 4638.53,
-      "upper": 4768.41,
-      "lower": 4508.65
+      "mid": 4638.73,
+      "upper": 4768.7,
+      "lower": 4508.77
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.29,
+      "position_sigma": 3.31,
       "momentum": "UP",
-      "mid": 4068.0,
-      "upper": 4446.41,
-      "lower": 3689.59
+      "mid": 4068.19,
+      "upper": 4446.91,
+      "lower": 3689.46
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,690.2付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,695.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+      "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444",
+      "published_at_utc": "2026-08-24T04:44:26+00:00",
+      "title": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608240436",
+      "published_at_utc": "2026-08-24T04:36:17+00:00",
+      "title": "India Gold price today: Gold rises, according to FXStreet data"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold gains momentum above $4,600 on US Treasury buyback plans",
       "link": "https://www.fxstreet.com/news/gold-gains-momentum-above-4-600-on-us-treasury-buyback-plans-202608240140",
       "published_at_utc": "2026-08-24T01:40:30+00:00",
-      "title": "米国債の買い戻し計画を受けて金は4,600ドルを超えて勢いを増す"
+      "title": "Gold gains momentum above $4,600 on US Treasury buyback plans"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
