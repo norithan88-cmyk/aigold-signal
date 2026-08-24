@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-24T06:36:23.521437+00:00",
+  "generated_at_utc": "2026-08-24T07:43:22.729087+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4703.5,
+  "latest_price": 4699.2,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,40 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.25,
+      "position_sigma": -0.0,
       "momentum": "FLAT",
-      "mid": 4693.9,
-      "upper": 4770.73,
-      "lower": 4617.07
+      "mid": 4699.35,
+      "upper": 4773.19,
+      "lower": 4625.51
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.96,
+      "position_sigma": 0.9,
       "momentum": "FLAT",
-      "mid": 4640.49,
-      "upper": 4771.09,
-      "lower": 4509.88
+      "mid": 4640.29,
+      "upper": 4770.83,
+      "lower": 4509.75
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.35,
+      "position_sigma": 3.33,
       "momentum": "UP",
-      "mid": 4068.49,
-      "upper": 4447.74,
-      "lower": 3689.25
+      "mid": 4068.35,
+      "upper": 4447.36,
+      "lower": 3689.35
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,703.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,699.2付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+      "title_en": "Gold: Upside risks building as fiscal worries grow – ING",
+      "link": "https://www.fxstreet.com/news/gold-upside-risks-building-as-fiscal-worries-grow-ing-202608240658",
+      "published_at_utc": "2026-08-24T06:58:05+00:00",
+      "title": "Gold: Upside risks building as fiscal worries grow – ING"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold extends rally above $4,650, fresh high since mid-May as Fed hike bets recede",
       "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444",
       "published_at_utc": "2026-08-24T04:44:26+00:00",
-      "title": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD"
+      "title": "Gold extends rally above $4,650, fresh high since mid-May as Fed hike bets recede"
     },
     {
       "source": "FXStreet",
