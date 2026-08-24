@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T21:19:27.873667+00:00",
+  "generated_at_utc": "2026-08-24T21:51:16.735227+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4710.0,
   "day_change_pct": 0.0,
@@ -29,8 +29,8 @@
       "label": "1時間足",
       "position_sigma": -1.26,
       "momentum": "FLAT",
-      "mid": 4748.75,
-      "upper": 4810.39,
+      "mid": 4748.7,
+      "upper": 4810.31,
       "lower": 4687.1
     },
     {
@@ -38,9 +38,9 @@
       "label": "4時間足",
       "position_sigma": 0.69,
       "momentum": "FLAT",
-      "mid": 4665.13,
+      "mid": 4665.16,
       "upper": 4796.07,
-      "lower": 4534.2
+      "lower": 4534.24
     },
     {
       "key": "d1",
@@ -60,14 +60,14 @@
       "title_en": "Gold rallies as Iran sanctions stoke haven demand",
       "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-sanctions-stoke-haven-demand-202608241820",
       "published_at_utc": "2026-08-24T18:20:57+00:00",
-      "title": "Gold rallies as Iran sanctions stoke haven demand"
+      "title": "イラン制裁で避難所の需要が高まり、金が上昇"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold extends gains as US Treasury buyback fallout keeps buyers in control",
       "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
       "published_at_utc": "2026-08-24T11:07:10+00:00",
-      "title": "Gold extends gains as US Treasury buyback fallout keeps buyers in control"
+      "title": "米国債買い戻しの影響で買い手が主導権を握る中、金は上昇幅を拡大"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
