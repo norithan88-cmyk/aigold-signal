@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T02:12:34.790611+00:00",
+  "generated_at_utc": "2026-08-25T03:12:06.913678+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4712.3,
+  "latest_price": 4683.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,34 +27,41 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.53,
+      "position_sigma": -2.23,
       "momentum": "DOWN",
-      "mid": 4760.62,
-      "upper": 4823.96,
-      "lower": 4697.29
+      "mid": 4758.26,
+      "upper": 4825.29,
+      "lower": 4691.24
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.61,
+      "position_sigma": 0.19,
       "momentum": "FLAT",
-      "mid": 4672.13,
-      "upper": 4803.55,
-      "lower": 4540.7
+      "mid": 4670.99,
+      "upper": 4802.19,
+      "lower": 4539.8
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.16,
+      "position_sigma": 3.03,
       "momentum": "UP",
-      "mid": 4086.43,
-      "upper": 4482.63,
-      "lower": 3690.24
+      "mid": 4085.29,
+      "upper": 4479.7,
+      "lower": 3690.89
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,712.3付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,683.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254",
+      "published_at_utc": "2026-08-25T02:54:12+00:00",
+      "title": "Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold rallies as Iran sanctions stoke haven demand",
