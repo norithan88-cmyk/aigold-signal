@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T19:43:37.395581+00:00",
+  "generated_at_utc": "2026-08-25T20:01:10.668822+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4717.4,
+  "latest_price": 4721.5,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.99,
+      "position_sigma": -0.85,
       "momentum": "FLAT",
-      "mid": 4744.4,
-      "upper": 4799.08,
-      "lower": 4689.72
+      "mid": 4744.71,
+      "upper": 4799.24,
+      "lower": 4690.17
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.45,
+      "position_sigma": 0.51,
       "momentum": "FLAT",
-      "mid": 4688.42,
-      "upper": 4816.3,
-      "lower": 4560.54
+      "mid": 4688.58,
+      "upper": 4816.5,
+      "lower": 4560.67
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.18,
+      "position_sigma": 3.2,
       "momentum": "UP",
-      "mid": 4086.64,
-      "upper": 4483.16,
-      "lower": 3690.11
+      "mid": 4086.8,
+      "upper": 4483.58,
+      "lower": 3690.01
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,717.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,721.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -61,13 +61,6 @@
       "link": "https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814",
       "published_at_utc": "2026-08-25T18:14:14+00:00",
       "title": "Gold pulls back from $4,700 as Hormuz hopes cool haven demand"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold: Overbought rally eyes key resistance – UOB",
-      "link": "https://www.fxstreet.com/news/gold-overbought-rally-eyes-key-resistance-uob-202608251359",
-      "published_at_utc": "2026-08-25T13:59:37+00:00",
-      "title": "Gold: Overbought rally eyes key resistance – UOB"
     },
     {
       "source": "FXStreet",
