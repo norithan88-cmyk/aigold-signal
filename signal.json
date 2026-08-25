@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T22:26:21.198349+00:00",
+  "generated_at_utc": "2026-08-25T22:52:50.051554+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4723.0,
+  "latest_price": 4726.5,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.87,
+      "position_sigma": -0.75,
       "momentum": "FLAT",
-      "mid": 4746.77,
-      "upper": 4801.63,
-      "lower": 4691.91
+      "mid": 4747.05,
+      "upper": 4801.8,
+      "lower": 4692.3
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.48,
+      "position_sigma": 0.53,
       "momentum": "FLAT",
-      "mid": 4692.8,
-      "upper": 4819.38,
-      "lower": 4566.21
+      "mid": 4692.93,
+      "upper": 4819.55,
+      "lower": 4566.32
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.21,
+      "position_sigma": 3.22,
       "momentum": "UP",
-      "mid": 4086.86,
-      "upper": 4483.74,
-      "lower": 3689.98
+      "mid": 4086.99,
+      "upper": 4484.1,
+      "lower": 3689.89
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,723.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,726.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -61,13 +61,6 @@
       "link": "https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814",
       "published_at_utc": "2026-08-25T18:14:14+00:00",
       "title": "Gold pulls back from $4,700 as Hormuz hopes cool haven demand"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
-      "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
-      "published_at_utc": "2026-08-25T11:09:01+00:00",
-      "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
