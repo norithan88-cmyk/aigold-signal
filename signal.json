@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T16:31:17.436705+00:00",
+  "generated_at_utc": "2026-08-25T17:14:33.676735+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4696.3,
+  "latest_price": 4697.9,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,54 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.6,
+      "position_sigma": -1.57,
       "momentum": "DOWN",
-      "mid": 4745.65,
-      "upper": 4807.39,
-      "lower": 4683.92
+      "mid": 4744.32,
+      "upper": 4803.51,
+      "lower": 4685.14
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.14,
+      "position_sigma": 0.16,
       "momentum": "FLAT",
-      "mid": 4687.59,
-      "upper": 4815.35,
-      "lower": 4559.84
+      "mid": 4687.65,
+      "upper": 4815.41,
+      "lower": 4559.89
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.09,
+      "position_sigma": 3.1,
       "momentum": "UP",
-      "mid": 4085.79,
-      "upper": 4480.97,
-      "lower": 3690.61
+      "mid": 4085.88,
+      "upper": 4481.19,
+      "lower": 3690.56
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,696.3付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,697.9付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "Gold: Overbought rally eyes key resistance – UOB",
       "link": "https://www.fxstreet.com/news/gold-overbought-rally-eyes-key-resistance-uob-202608251359",
       "published_at_utc": "2026-08-25T13:59:37+00:00",
-      "title": "Gold: Overbought rally eyes key resistance – UOB"
+      "title": "金：買われ過ぎのラリーが重要な抵抗線となる – UOB"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold: Tariff conflict fuels safe haven bid – Commerzbank",
       "link": "https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250",
       "published_at_utc": "2026-08-25T12:50:27+00:00",
-      "title": "Gold: Tariff conflict fuels safe haven bid – Commerzbank"
+      "title": "金：関税紛争が安全資産への入札を促進 – コメルツ銀行"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
       "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
       "published_at_utc": "2026-08-25T11:09:01+00:00",
-      "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus"
+      "title": "金は3カ月ぶり高値に上昇後一息、米国のPCEに注目"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
