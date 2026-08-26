@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-08-25T23:45:43.851149+00:00",
+  "generated_at_utc": "2026-08-26T00:40:21.669528+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4717.8,
+  "latest_price": 4703.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:下方向 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.09,
-      "momentum": "FLAT",
-      "mid": 4747.91,
-      "upper": 4803.08,
-      "lower": 4692.75
+      "position_sigma": -1.56,
+      "momentum": "DOWN",
+      "mid": 4747.61,
+      "upper": 4803.94,
+      "lower": 4691.27
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.4,
+      "position_sigma": 0.13,
       "momentum": "FLAT",
-      "mid": 4692.59,
-      "upper": 4819.13,
-      "lower": 4566.05
+      "mid": 4695.39,
+      "upper": 4820.14,
+      "lower": 4570.65
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 3.18,
+      "position_sigma": 3.12,
       "momentum": "UP",
-      "mid": 4086.65,
-      "upper": 4483.2,
-      "lower": 3690.1
+      "mid": 4086.09,
+      "upper": 4481.75,
+      "lower": 3690.44
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,717.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,703.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
