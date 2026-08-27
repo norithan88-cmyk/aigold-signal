@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-08-26T21:27:27.306930+00:00",
+  "generated_at_utc": "2026-08-27T00:56:35.060225+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4647.8,
-  "day_change_pct": 0.0,
+  "latest_price": 4665.0,
+  "day_change_pct": 0.01,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:下方向 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,47 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.86,
-      "momentum": "DOWN",
-      "mid": 4715.64,
-      "upper": 4788.6,
-      "lower": 4642.68
+      "position_sigma": -1.27,
+      "momentum": "FLAT",
+      "mid": 4709.74,
+      "upper": 4780.92,
+      "lower": 4638.56
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.89,
+      "position_sigma": -0.64,
       "momentum": "FLAT",
-      "mid": 4699.28,
-      "upper": 4814.4,
-      "lower": 4584.16
+      "mid": 4700.39,
+      "upper": 4811.66,
+      "lower": 4589.11
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 2.7,
+      "position_sigma": 2.77,
       "momentum": "UP",
-      "mid": 4098.81,
-      "upper": 4506.14,
-      "lower": 3691.47
+      "mid": 4099.47,
+      "upper": 4507.73,
+      "lower": 3691.21
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,647.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,665.0付近で推移（直近1時間比+0.01%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold retreats from three-month high to near $4,600 after US PCE data",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-three-month-high-to-near-4-600-after-us-pce-data-202608262326",
+      "published_at_utc": "2026-08-26T23:26:52+00:00",
+      "title": "米国のPCEデータを受けて、金は3か月ぶりの高値から4,600ドル近くまで後退"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold tumbles as high US inflation supports Fed hawkish bets",
       "link": "https://www.fxstreet.com/news/gold-tumbles-as-high-us-inflation-supports-fed-hawkish-bets-202608261809",
       "published_at_utc": "2026-08-26T18:09:42+00:00",
-      "title": "Gold tumbles as high US inflation supports Fed hawkish bets"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold stays under pressure as US Dollar firms after PCE data",
-      "link": "https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107",
-      "published_at_utc": "2026-08-26T11:07:10+00:00",
-      "title": "Gold stays under pressure as US Dollar firms after PCE data"
+      "title": "米国の高インフレがFRBのタカ派的賭けを支援する中、金が下落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
