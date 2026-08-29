@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-29T07:50:30.938277+00:00",
+  "generated_at_utc": "2026-08-29T13:28:03.628883+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4504.1,
   "day_change_pct": -0.08,
@@ -29,9 +29,9 @@
       "label": "1時間足",
       "position_sigma": -3.52,
       "momentum": "DOWN",
-      "mid": 4607.15,
-      "upper": 4665.67,
-      "lower": 4548.63
+      "mid": 4607.22,
+      "upper": 4665.79,
+      "lower": 4548.66
     },
     {
       "key": "h4",
@@ -39,8 +39,8 @@
       "position_sigma": -3.04,
       "momentum": "DOWN",
       "mid": 4699.53,
-      "upper": 4828.07,
-      "lower": 4571.0
+      "upper": 4828.05,
+      "lower": 4571.01
     },
     {
       "key": "d1",
@@ -60,7 +60,7 @@
       "title_en": "Gold tumbles as Warsh sparks rally on the US Dollar",
       "link": "https://www.fxstreet.com/news/gold-slides-as-warsh-hawkish-tilt-lifts-us-dollar-and-us-yields-202608281517",
       "published_at_utc": "2026-08-28T15:17:46+00:00",
-      "title": "Gold tumbles as Warsh sparks rally on the US Dollar"
+      "title": "ウォーシュの火花が米ドルに上昇する中、金は下落"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
