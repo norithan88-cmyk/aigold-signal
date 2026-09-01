@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-01T20:59:39.446389+00:00",
+  "generated_at_utc": "2026-09-01T23:06:36.164727+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4375.6,
+  "latest_price": 4375.4,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.7,
+      "position_sigma": -0.57,
       "momentum": "FLAT",
-      "mid": 4400.94,
-      "upper": 4473.37,
-      "lower": 4328.52
+      "mid": 4395.87,
+      "upper": 4467.56,
+      "lower": 4324.18
     },
     {
       "key": "h4",
       "label": "4時間足",
       "position_sigma": -2.55,
       "momentum": "DOWN",
-      "mid": 4624.78,
+      "mid": 4624.77,
       "upper": 4820.57,
-      "lower": 4428.99
+      "lower": 4428.97
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.12,
+      "position_sigma": 1.11,
       "momentum": "FLAT",
-      "mid": 4136.19,
-      "upper": 4565.66,
-      "lower": 3706.72
+      "mid": 4136.17,
+      "upper": 4565.63,
+      "lower": 3706.71
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,375.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,375.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -61,13 +61,6 @@
       "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930",
       "published_at_utc": "2026-09-01T19:30:49+00:00",
       "title": "Gold collapses as US-Iran strikes send Oil, US yields higher"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold: Pricing stays supported as Fed path questioned – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-pricing-stays-supported-as-fed-path-questioned-td-securities-202609011419",
-      "published_at_utc": "2026-09-01T14:19:04+00:00",
-      "title": "Gold: Pricing stays supported as Fed path questioned – TD Securities"
     },
     {
       "source": "FXStreet",
