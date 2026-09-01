@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-01T05:08:34.021181+00:00",
+  "generated_at_utc": "2026-09-01T10:02:37.308328+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4476.0,
+  "latest_price": 4418.7,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,54 +27,40 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.07,
+      "position_sigma": -0.94,
       "momentum": "FLAT",
-      "mid": 4473.54,
-      "upper": 4545.75,
-      "lower": 4401.32
+      "mid": 4453.07,
+      "upper": 4526.16,
+      "lower": 4379.97
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.12,
+      "position_sigma": -2.62,
       "momentum": "DOWN",
-      "mid": 4656.34,
-      "upper": 4826.26,
-      "lower": 4486.41
+      "mid": 4649.22,
+      "upper": 4825.49,
+      "lower": 4472.95
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.55,
+      "position_sigma": 1.3,
       "momentum": "UP",
-      "mid": 4140.14,
-      "upper": 4572.28,
-      "lower": 3707.99
+      "mid": 4137.88,
+      "upper": 4568.39,
+      "lower": 3707.37
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,476.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,418.7付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609010435",
-      "published_at_utc": "2026-09-01T04:35:46+00:00",
-      "title": "今日のインドの金価格：FXStreet データによると金は下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold declines as rising Fed hike bets and US‑Iran tensions support USD",
+      "title_en": "Gold drops to nearly two-week low, below $4,400 on hawkish Fed bets and firm USD",
       "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350",
       "published_at_utc": "2026-09-01T03:50:29+00:00",
-      "title": "FRB利上げ観測の高まりと米国とイランの緊張が米ドルを支援する中、金は下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold edges lower below $4,450 as Middle East tensions add inflation pressure",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-450-as-middle-east-tensions-add-inflation-pressure-202608312330",
-      "published_at_utc": "2026-08-31T23:30:29+00:00",
-      "title": "中東の緊張がインフレ圧力を高める中、金は4,450ドルを下回る水準に下落"
+      "title": "FRBのタカ派的な見方と米ドルの堅調を受けて、金は約2週間ぶりの安値、4,400ドルを下回る水準に下落した"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
