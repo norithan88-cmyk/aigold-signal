@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-01T18:02:51.987565+00:00",
+  "generated_at_utc": "2026-09-01T20:59:39.446389+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4391.7,
-  "day_change_pct": 0.01,
+  "latest_price": 4375.6,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -29,45 +29,52 @@
       "label": "1時間足",
       "position_sigma": -0.7,
       "momentum": "FLAT",
-      "mid": 4416.65,
-      "upper": 4489.17,
-      "lower": 4344.14
+      "mid": 4400.94,
+      "upper": 4473.37,
+      "lower": 4328.52
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.58,
+      "position_sigma": -2.55,
       "momentum": "DOWN",
-      "mid": 4633.69,
-      "upper": 4821.85,
-      "lower": 4445.53
+      "mid": 4624.78,
+      "upper": 4820.57,
+      "lower": 4428.99
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.18,
+      "position_sigma": 1.12,
       "momentum": "FLAT",
-      "mid": 4136.79,
-      "upper": 4566.62,
-      "lower": 3706.97
+      "mid": 4136.19,
+      "upper": 4565.66,
+      "lower": 3706.72
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,391.7付近で推移（直近1時間比+0.01%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,375.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold collapses as US-Iran strikes send Oil, US yields higher",
+      "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930",
+      "published_at_utc": "2026-09-01T19:30:49+00:00",
+      "title": "Gold collapses as US-Iran strikes send Oil, US yields higher"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold: Pricing stays supported as Fed path questioned – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-pricing-stays-supported-as-fed-path-questioned-td-securities-202609011419",
       "published_at_utc": "2026-09-01T14:19:04+00:00",
-      "title": "金：FRBの方針が疑問視される中、価格は引き続き支持 – TD Securities"
+      "title": "Gold: Pricing stays supported as Fed path questioned – TD Securities"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold struggles below $4,400 as Fed rate hike bets dominate",
       "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123",
       "published_at_utc": "2026-09-01T11:23:02+00:00",
-      "title": "FRBの利上げ観測が優勢となる中、金は4,400ドル以下で苦戦"
+      "title": "Gold struggles below $4,400 as Fed rate hike bets dominate"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
