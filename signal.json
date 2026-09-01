@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-01T14:50:56.490201+00:00",
+  "generated_at_utc": "2026-09-01T18:02:51.987565+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4415.6,
-  "day_change_pct": 0.0,
+  "latest_price": 4391.7,
+  "day_change_pct": 0.01,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.43,
+      "position_sigma": -0.7,
       "momentum": "FLAT",
-      "mid": 4431.16,
-      "upper": 4504.18,
-      "lower": 4358.15
+      "mid": 4416.65,
+      "upper": 4489.17,
+      "lower": 4344.14
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.49,
+      "position_sigma": -2.58,
       "momentum": "DOWN",
-      "mid": 4641.66,
-      "upper": 4823.53,
-      "lower": 4459.79
+      "mid": 4633.69,
+      "upper": 4821.85,
+      "lower": 4445.53
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.29,
+      "position_sigma": 1.18,
       "momentum": "FLAT",
-      "mid": 4137.75,
-      "upper": 4568.18,
-      "lower": 3707.33
+      "mid": 4136.79,
+      "upper": 4566.62,
+      "lower": 3706.97
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,415.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,391.7付近で推移（直近1時間比+0.01%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -64,17 +64,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold Price Forecast: XAU/USD extends reversal below $4.400 amid Fed hawkish repricing",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-extends-reversal-below-4400-amid-fed-hawkish-repricing-202609011150",
-      "published_at_utc": "2026-09-01T11:50:51+00:00",
-      "title": "金価格予測：FRBのタカ派的な価格改定のなか、XAU/USDは4.400ドル以下に反転圏を拡大"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold sellers retain control despite US manufacturing PMI miss",
+      "title_en": "Gold struggles below $4,400 as Fed rate hike bets dominate",
       "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123",
       "published_at_utc": "2026-09-01T11:23:02+00:00",
-      "title": "Gold sellers retain control despite US manufacturing PMI miss"
+      "title": "FRBの利上げ観測が優勢となる中、金は4,400ドル以下で苦戦"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
