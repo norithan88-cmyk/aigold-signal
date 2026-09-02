@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-02T14:26:43.919430+00:00",
+  "generated_at_utc": "2026-09-02T17:57:55.207053+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4433.8,
+  "latest_price": 4423.1,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:上方向 / 4時間足:下方向 / 日足:上方向 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:上方向 / 4時間足:下方向 / 日足:中央 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,40 +27,40 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 2.62,
+      "position_sigma": 2.27,
       "momentum": "UP",
-      "mid": 4338.57,
-      "upper": 4411.23,
-      "lower": 4265.9
+      "mid": 4335.93,
+      "upper": 4412.65,
+      "lower": 4259.22
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.48,
+      "position_sigma": -1.5,
       "momentum": "DOWN",
-      "mid": 4593.66,
-      "upper": 4809.77,
-      "lower": 4377.55
+      "mid": 4586.9,
+      "upper": 4805.9,
+      "lower": 4367.9
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.34,
-      "momentum": "UP",
-      "mid": 4144.78,
-      "upper": 4576.83,
-      "lower": 3712.73
+      "position_sigma": 1.29,
+      "momentum": "FLAT",
+      "mid": 4144.36,
+      "upper": 4576.12,
+      "lower": 3712.59
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,433.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,423.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold: Oil-driven rate repricing weighs on bullion – ING",
-      "link": "https://www.fxstreet.com/news/gold-oil-driven-rate-repricing-weighs-on-bullion-ing-202609021117",
-      "published_at_utc": "2026-09-02T11:17:25+00:00",
-      "title": "金：原油による金利再設定が地金を圧迫 – ING"
+      "title_en": "Gold: Data risks and CTA selling – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-data-risks-and-cta-selling-td-securities-202609021429",
+      "published_at_utc": "2026-09-02T14:29:35+00:00",
+      "title": "ゴールド: データリスクと CTA 販売 – TD Securities"
     },
     {
       "source": "FXStreet",
