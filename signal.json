@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-01T23:06:36.164727+00:00",
+  "generated_at_utc": "2026-09-02T01:00:13.421926+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4375.4,
+  "latest_price": 4368.3,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,47 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.57,
+      "position_sigma": -0.48,
       "momentum": "FLAT",
-      "mid": 4395.87,
-      "upper": 4467.56,
-      "lower": 4324.18
+      "mid": 4385.04,
+      "upper": 4454.73,
+      "lower": 4315.36
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -2.55,
+      "position_sigma": -2.45,
       "momentum": "DOWN",
-      "mid": 4624.77,
-      "upper": 4820.57,
-      "lower": 4428.97
+      "mid": 4616.42,
+      "upper": 4818.88,
+      "lower": 4413.95
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.11,
+      "position_sigma": 1.08,
       "momentum": "FLAT",
-      "mid": 4136.17,
-      "upper": 4565.63,
-      "lower": 3706.71
+      "mid": 4135.89,
+      "upper": 4565.2,
+      "lower": 3706.59
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,375.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,368.3付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold slumps below $4,350 on higher US yields, hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-slumps-below-4-350-on-higher-us-yields-hawkish-fed-bets-202609012328",
+      "published_at_utc": "2026-09-01T23:28:14+00:00",
+      "title": "米国利回り上昇で金は4,350ドル以下に下落、FRBのタカ派的賭け"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold collapses as US-Iran strikes send Oil, US yields higher",
       "link": "https://www.fxstreet.com/news/gold-collapses-as-us-iran-strikes-send-oil-us-yields-higher-202609011930",
       "published_at_utc": "2026-09-01T19:30:49+00:00",
-      "title": "Gold collapses as US-Iran strikes send Oil, US yields higher"
+      "title": "米国とイランの攻撃で原油が流出、米国の利回りが上昇、金が暴落"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold struggles below $4,400 as Fed rate hike bets dominate",
       "link": "https://www.fxstreet.com/news/gold-weakens-below-4-400-as-us-treasury-yields-surge-fed-rate-hike-bets-rise-202609011123",
       "published_at_utc": "2026-09-01T11:23:02+00:00",
-      "title": "Gold struggles below $4,400 as Fed rate hike bets dominate"
+      "title": "FRBの利上げ観測が優勢となる中、金は4,400ドル以下で苦戦"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
