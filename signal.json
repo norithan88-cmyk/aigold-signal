@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-02T22:46:56.749086+00:00",
+  "generated_at_utc": "2026-09-03T00:51:01.643370+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4432.7,
+  "latest_price": 4432.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:上方向 / 4時間足:下方向 / 日足:上方向 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:上方向 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,47 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 2.22,
+      "position_sigma": 2.08,
       "momentum": "UP",
-      "mid": 4337.26,
-      "upper": 4423.18,
-      "lower": 4251.35
+      "mid": 4339.49,
+      "upper": 4429.14,
+      "lower": 4249.84
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.35,
-      "momentum": "DOWN",
-      "mid": 4581.37,
-      "upper": 4801.79,
-      "lower": 4360.95
+      "position_sigma": -1.28,
+      "momentum": "FLAT",
+      "mid": 4575.21,
+      "upper": 4797.28,
+      "lower": 4353.13
     },
     {
       "key": "d1",
       "label": "日足",
       "position_sigma": 1.33,
       "momentum": "UP",
-      "mid": 4144.74,
+      "mid": 4144.73,
       "upper": 4576.75,
       "lower": 3712.72
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,432.7付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,432.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-350-as-us-dollar-treasury-yields-slip-202609022329",
+      "published_at_utc": "2026-09-02T23:29:32+00:00",
+      "title": "米ドルと国債利回りが低下する中、金は4,350ドルを超えて反発"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold rises as speculation of Yen intervention weighs on the US Dollar",
       "link": "https://www.fxstreet.com/news/gold-rises-as-speculation-of-yen-intervention-weighs-on-the-us-dollar-202609021946",
       "published_at_utc": "2026-09-02T19:46:55+00:00",
       "title": "円介入観測が米ドルを圧迫し、金が上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold: Data risks and CTA selling – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-data-risks-and-cta-selling-td-securities-202609021429",
-      "published_at_utc": "2026-09-02T14:29:35+00:00",
-      "title": "ゴールド: データリスクと CTA 販売 – TD Securities"
     },
     {
       "source": "FXStreet",
