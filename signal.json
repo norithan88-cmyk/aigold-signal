@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-03T00:51:01.643370+00:00",
+  "generated_at_utc": "2026-09-03T05:20:21.000250+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4432.6,
+  "latest_price": 4477.8,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,34 +27,48 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 2.08,
+      "position_sigma": 2.62,
       "momentum": "UP",
-      "mid": 4339.49,
-      "upper": 4429.14,
-      "lower": 4249.84
+      "mid": 4347.65,
+      "upper": 4446.95,
+      "lower": 4248.35
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -1.28,
+      "position_sigma": -0.84,
       "momentum": "FLAT",
-      "mid": 4575.21,
-      "upper": 4797.28,
-      "lower": 4353.13
+      "mid": 4571.47,
+      "upper": 4794.31,
+      "lower": 4348.64
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.33,
+      "position_sigma": 1.49,
       "momentum": "UP",
-      "mid": 4144.73,
-      "upper": 4576.75,
-      "lower": 3712.72
+      "mid": 4153.39,
+      "upper": 4588.08,
+      "lower": 3718.7
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,432.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,477.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609030435",
+      "published_at_utc": "2026-09-03T04:35:06+00:00",
+      "title": "今日のインドの金価格: FXStreet データによると、金は上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold bulls eye $4,450 as sliding bond yields counter Fed hike bets and undermine USD",
+      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351",
+      "published_at_utc": "2026-09-03T03:51:59+00:00",
+      "title": "債券利回りの下落がFRBの利上げ観測に対抗し、米ドルを損なう中、金の強気派は4,450ドルに注目"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
@@ -68,13 +82,6 @@
       "link": "https://www.fxstreet.com/news/gold-rises-as-speculation-of-yen-intervention-weighs-on-the-us-dollar-202609021946",
       "published_at_utc": "2026-09-02T19:46:55+00:00",
       "title": "円介入観測が米ドルを圧迫し、金が上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114",
-      "published_at_utc": "2026-09-02T11:14:59+00:00",
-      "title": "円ペアの混乱が米ドルに影響を与える中、金はプラスに転じる"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
