@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-04T13:30:49.442802+00:00",
+  "generated_at_utc": "2026-09-04T17:04:14.091120+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4447.0,
+  "latest_price": 4484.1,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,54 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.74,
+      "position_sigma": -0.19,
       "momentum": "FLAT",
-      "mid": 4487.22,
-      "upper": 4596.22,
-      "lower": 4378.21
+      "mid": 4494.06,
+      "upper": 4599.78,
+      "lower": 4388.34
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.95,
+      "position_sigma": -0.59,
       "momentum": "FLAT",
-      "mid": 4552.91,
-      "upper": 4775.46,
-      "lower": 4330.36
+      "mid": 4549.83,
+      "upper": 4771.23,
+      "lower": 4328.43
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.29,
-      "momentum": "FLAT",
-      "mid": 4165.8,
-      "upper": 4602.19,
-      "lower": 3729.42
+      "position_sigma": 1.45,
+      "momentum": "UP",
+      "mid": 4167.25,
+      "upper": 4604.64,
+      "lower": 3729.86
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,447.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,484.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
       "title_en": "Gold: Central bank buying underpins prices – ING",
       "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325",
       "published_at_utc": "2026-09-04T13:25:01+00:00",
-      "title": "Gold: Central bank buying underpins prices – ING"
+      "title": "金：中央銀行の購入が価格を下支え – ING"
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
+      "title_en": "Gold recovers from post-NFP low as US Dollar trims gains",
       "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
       "published_at_utc": "2026-09-04T11:03:54+00:00",
-      "title": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949",
-      "published_at_utc": "2026-09-04T09:49:51+00:00",
-      "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls"
+      "title": "米ドルの上昇幅が縮小する中、金はNFP後の安値から回復"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
