@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-04T09:11:22.632452+00:00",
+  "generated_at_utc": "2026-09-04T13:30:49.442802+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4523.6,
+  "latest_price": 4447.0,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:上方向 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,47 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.7,
+      "position_sigma": -0.74,
       "momentum": "FLAT",
-      "mid": 4485.04,
-      "upper": 4595.61,
-      "lower": 4374.47
+      "mid": 4487.22,
+      "upper": 4596.22,
+      "lower": 4378.21
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.32,
+      "position_sigma": -0.95,
       "momentum": "FLAT",
-      "mid": 4558.84,
-      "upper": 4780.79,
-      "lower": 4336.89
+      "mid": 4552.91,
+      "upper": 4775.46,
+      "lower": 4330.36
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.62,
-      "momentum": "UP",
-      "mid": 4168.81,
-      "upper": 4607.41,
-      "lower": 3730.2
+      "position_sigma": 1.29,
+      "momentum": "FLAT",
+      "mid": 4165.8,
+      "upper": 4602.19,
+      "lower": 3729.42
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,523.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,447.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold: Rebound on softer Fed expectations – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-rebound-on-softer-fed-expectations-ocbc-202609040742",
-      "published_at_utc": "2026-09-04T07:42:00+00:00",
-      "title": "金：FRBの期待軟化を受けて反発 – OCBC"
+      "title_en": "Gold: Central bank buying underpins prices – ING",
+      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325",
+      "published_at_utc": "2026-09-04T13:25:01+00:00",
+      "title": "Gold: Central bank buying underpins prices – ING"
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold extends the range play above $4,450 as traders look to US NFP for Fed rate cues",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418",
-      "published_at_utc": "2026-09-04T04:18:00+00:00",
-      "title": "トレーダーらがFRB金利の手がかりを求めて米国NFPに注目する中、金は4,450ドルを超えるレンジ相場を拡大"
+      "title_en": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
+      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
+      "published_at_utc": "2026-09-04T11:03:54+00:00",
+      "title": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949",
+      "published_at_utc": "2026-09-04T09:49:51+00:00",
+      "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
