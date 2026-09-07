@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T05:12:17.949405+00:00",
+  "generated_at_utc": "2026-09-07T10:15:49.458187+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4476.6,
   "day_change_pct": -0.12,
@@ -57,24 +57,10 @@
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "India Gold price today: Gold falls, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609070441",
-      "published_at_utc": "2026-09-07T04:41:07+00:00",
-      "title": "今日のインドの金価格: FXStreet データによると金は下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold remains depressed as reviving Fed rate hike bets and Iran risks underpin USD",
+      "title_en": "Gold recovers intraday losses to sub-$4,400 as USD slumps despite Fed rate hike bets",
       "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419",
       "published_at_utc": "2026-09-07T04:19:03+00:00",
-      "title": "FRB利上げの復活への賭けとイランリスクが米ドルを下支えする中、金は依然として低迷している"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold falls below $4,400 as strong US jobs data raise the prospects for Fed rate hike",
-      "link": "https://www.fxstreet.com/news/gold-falls-below-4-400-as-strong-us-jobs-data-raise-the-prospects-for-fed-rate-hike-202609070133",
-      "published_at_utc": "2026-09-07T01:33:46+00:00",
-      "title": "好調な米国雇用統計でFRB利上げの見通しが高まる中、金は4,400ドルを下回る"
+      "title": "FRBの利上げ賭けにも関わらず米ドルが下落し、金は日中の損失を4,400ドル未満まで回復"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
