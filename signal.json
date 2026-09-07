@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T10:15:49.458187+00:00",
+  "generated_at_utc": "2026-09-07T15:56:15.378161+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4476.6,
   "day_change_pct": -0.12,
@@ -57,10 +57,17 @@
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold recovers intraday losses to sub-$4,400 as USD slumps despite Fed rate hike bets",
-      "link": "https://www.fxstreet.com/news/gold-remains-depressed-as-reviving-fed-rate-hike-bets-and-iran-risks-underpin-usd-202609070419",
-      "published_at_utc": "2026-09-07T04:19:03+00:00",
-      "title": "FRBの利上げ賭けにも関わらず米ドルが下落し、金は日中の損失を4,400ドル未満まで回復"
+      "title_en": "Gold: Bull market conviction broadens – Societe Generale",
+      "link": "https://www.fxstreet.com/news/gold-bull-market-conviction-broadens-societe-generale-202609071344",
+      "published_at_utc": "2026-09-07T13:44:37+00:00",
+      "title": "金：強気相場への確信が広がる – ソシエテ・ジェネラル"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
+      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
+      "published_at_utc": "2026-09-07T11:13:47+00:00",
+      "title": "FRBの利上げ観測と石油主導のインフレが重しとなる中、金弱気派が主導権を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
