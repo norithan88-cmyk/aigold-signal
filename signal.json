@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T22:15:33.808070+00:00",
+  "generated_at_utc": "2026-09-08T00:33:31.608009+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4476.6,
   "day_change_pct": -0.12,
@@ -45,11 +45,11 @@
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.36,
+      "position_sigma": 1.33,
       "momentum": "UP",
-      "mid": 4177.87,
-      "upper": 4615.68,
-      "lower": 3740.05
+      "mid": 4177.57,
+      "upper": 4615.19,
+      "lower": 3739.96
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
@@ -57,24 +57,24 @@
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold bulls flinch as NFP puts Fed hawks back in the driver’s seat",
-      "link": "https://www.fxstreet.com/news/gold-bulls-flinch-as-nfp-puts-fed-hawks-back-in-the-drivers-seat-202609071918",
-      "published_at_utc": "2026-09-07T19:18:29+00:00",
-      "title": "Gold bulls flinch as NFP puts Fed hawks back in the driver’s seat"
+      "title_en": "Gold declines to near $4,400 as robust US jobs data lifts Fed hike odds",
+      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-400-as-robust-us-jobs-data-lifts-fed-hike-odds-202609072326",
+      "published_at_utc": "2026-09-07T23:26:33+00:00",
+      "title": "好調な米国雇用統計でFRB利上げの可能性が高まる中、金は4,400ドル近くまで下落"
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold: Bull market conviction broadens – Societe Generale",
-      "link": "https://www.fxstreet.com/news/gold-bull-market-conviction-broadens-societe-generale-202609071344",
-      "published_at_utc": "2026-09-07T13:44:37+00:00",
-      "title": "Gold: Bull market conviction broadens – Societe Generale"
+      "title_en": "Gold bulls flinch as NFP puts Fed hawks back in the driver’s seat",
+      "link": "https://www.fxstreet.com/news/gold-bulls-flinch-as-nfp-puts-fed-hawks-back-in-the-drivers-seat-202609071918",
+      "published_at_utc": "2026-09-07T19:18:29+00:00",
+      "title": "NFPがFRBタカ派を運転席に戻すと金強気派はひるむ"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
       "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
       "published_at_utc": "2026-09-07T11:13:47+00:00",
-      "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh"
+      "title": "FRBの利上げ観測と石油主導のインフレが重しとなる中、金弱気派が主導権を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
