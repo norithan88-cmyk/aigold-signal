@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-08T00:33:31.608009+00:00",
+  "generated_at_utc": "2026-09-08T05:13:02.457481+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4476.6,
-  "day_change_pct": -0.12,
+  "latest_price": 4483.1,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,54 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.4,
+      "position_sigma": -0.37,
       "momentum": "FLAT",
-      "mid": 4497.39,
-      "upper": 4600.64,
-      "lower": 4394.14
+      "mid": 4501.76,
+      "upper": 4602.65,
+      "lower": 4400.87
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.62,
+      "position_sigma": -0.52,
       "momentum": "FLAT",
-      "mid": 4544.58,
-      "upper": 4764.99,
-      "lower": 4324.16
+      "mid": 4539.74,
+      "upper": 4758.98,
+      "lower": 4320.49
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.33,
+      "position_sigma": 1.39,
       "momentum": "UP",
-      "mid": 4177.57,
-      "upper": 4615.19,
-      "lower": 3739.96
+      "mid": 4178.12,
+      "upper": 4616.12,
+      "lower": 3740.13
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,476.6付近で推移（直近1時間比-0.12%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,483.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "India Gold price today: Gold rises, according to FXStreet data",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609080435",
+      "published_at_utc": "2026-09-08T04:35:42+00:00",
+      "title": "今日のインドの金価格: FXStreet データによると、金は上昇"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold benefits from weak USD; eyes $4,450 as focus remains on US CPI data",
+      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430",
+      "published_at_utc": "2026-09-08T04:30:14+00:00",
+      "title": "金は米ドル安の恩恵を受ける。米国のCPIデータに引き続き焦点が当てられるため、4,450ドルに注目"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold declines to near $4,400 as robust US jobs data lifts Fed hike odds",
       "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-400-as-robust-us-jobs-data-lifts-fed-hike-odds-202609072326",
       "published_at_utc": "2026-09-07T23:26:33+00:00",
       "title": "好調な米国雇用統計でFRB利上げの可能性が高まる中、金は4,400ドル近くまで下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold bulls flinch as NFP puts Fed hawks back in the driver’s seat",
-      "link": "https://www.fxstreet.com/news/gold-bulls-flinch-as-nfp-puts-fed-hawks-back-in-the-drivers-seat-202609071918",
-      "published_at_utc": "2026-09-07T19:18:29+00:00",
-      "title": "NFPがFRBタカ派を運転席に戻すと金強気派はひるむ"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
-      "published_at_utc": "2026-09-07T11:13:47+00:00",
-      "title": "FRBの利上げ観測と石油主導のインフレが重しとなる中、金弱気派が主導権を維持"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
