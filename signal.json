@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-09T10:05:40.835573+00:00",
+  "generated_at_utc": "2026-09-09T14:32:07.285198+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4435.0,
+  "latest_price": 4458.1,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,47 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.79,
+      "position_sigma": -0.18,
       "momentum": "FLAT",
-      "mid": 4475.96,
-      "upper": 4579.63,
-      "lower": 4372.3
+      "mid": 4466.96,
+      "upper": 4564.63,
+      "lower": 4369.29
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.52,
+      "position_sigma": -0.26,
       "momentum": "FLAT",
-      "mid": 4489.83,
-      "upper": 4700.32,
-      "lower": 4279.33
+      "mid": 4485.44,
+      "upper": 4693.95,
+      "lower": 4276.94
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.14,
+      "position_sigma": 1.24,
       "momentum": "FLAT",
-      "mid": 4185.67,
-      "upper": 4622.05,
-      "lower": 3749.3
+      "mid": 4186.58,
+      "upper": 4623.51,
+      "lower": 3749.66
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,435.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,458.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold: Inflation data key catalyst – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-inflation-data-key-catalyst-td-securities-202609091430",
+      "published_at_utc": "2026-09-09T14:30:22+00:00",
+      "title": "金: インフレデータの重要な触媒 – TD Securities"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold recovers from weekly low as US Dollar weakens, Fed outlook in focus",
+      "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136",
+      "published_at_utc": "2026-09-09T11:36:38+00:00",
+      "title": "ドル安を受けて金は週間安値から回復、FRBの見通しが焦点"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold Price Forecast: XAU/USD bounces up to $4,400 with the bearish trend intact",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bounces-up-to-4-400-with-the-bearish-trend-intact-202609090944",
       "published_at_utc": "2026-09-09T09:44:50+00:00",
       "title": "金価格予測: XAU/USD は弱気傾向を保ったまま最大 4,400 ドルまで反発"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold clings to intraday gains above $4,400 as bearish USD counters Fed hike bets",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-one-week-low-on-soft-usd-upside-seems-capped-ahead-of-us-inflation-data-202609090334",
-      "published_at_utc": "2026-09-09T03:34:11+00:00",
-      "title": "弱気な米ドルがFRBの利上げ観測に対抗する中、金は4,400ドルを超える日中上昇に固執"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
