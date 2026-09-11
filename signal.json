@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-11T13:31:46.960716+00:00",
+  "generated_at_utc": "2026-09-11T17:12:38.043648+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4424.1,
+  "latest_price": 4404.5,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:上方向 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,47 +27,40 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 1.63,
-      "momentum": "UP",
-      "mid": 4379.64,
-      "upper": 4434.15,
-      "lower": 4325.13
+      "position_sigma": 0.83,
+      "momentum": "FLAT",
+      "mid": 4381.9,
+      "upper": 4436.39,
+      "lower": 4327.41
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.31,
+      "position_sigma": 0.19,
       "momentum": "FLAT",
-      "mid": 4398.57,
-      "upper": 4560.76,
-      "lower": 4236.38
+      "mid": 4390.19,
+      "upper": 4542.91,
+      "lower": 4237.47
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 1.01,
+      "position_sigma": 0.92,
       "momentum": "FLAT",
-      "mid": 4206.45,
-      "upper": 4637.34,
-      "lower": 3775.56
+      "mid": 4205.68,
+      "upper": 4636.18,
+      "lower": 3775.17
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,424.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,404.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold rallies despite stronger Fed rate-hike expectations following US CPI",
+      "title_en": "Gold rebounds but Fed rate hike bets risks remain a headwind",
       "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059",
       "published_at_utc": "2026-09-11T10:59:22+00:00",
-      "title": "米国CPIを受けてFRBの利上げ期待が強まったにもかかわらず、金は上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold Price Forecast: XAU/USD clings to a key support area around $4,300",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-clings-to-a-key-support-area-around-4-300-202609110939",
-      "published_at_utc": "2026-09-11T09:39:58+00:00",
-      "title": "金価格予測：XAU/USDは4,300ドル付近の重要なサポートエリアに張り付いている"
+      "title": "金は反発するもFRB利上げでリスクは依然として逆風"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
