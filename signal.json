@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-11T00:07:04.271012+00:00",
+  "generated_at_utc": "2026-09-11T04:33:36.713626+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4356.0,
+  "latest_price": 4365.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,54 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.28,
+      "position_sigma": -0.69,
       "momentum": "FLAT",
-      "mid": 4390.0,
-      "upper": 4443.02,
-      "lower": 4336.98
+      "mid": 4383.77,
+      "upper": 4436.33,
+      "lower": 4331.2
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.81,
+      "position_sigma": -0.55,
       "momentum": "FLAT",
-      "mid": 4433.63,
-      "upper": 4624.59,
-      "lower": 4242.66
+      "mid": 4415.02,
+      "upper": 4594.11,
+      "lower": 4235.93
     },
     {
       "key": "d1",
       "label": "日足",
       "position_sigma": 0.75,
       "momentum": "FLAT",
-      "mid": 4194.54,
-      "upper": 4626.94,
-      "lower": 3762.14
+      "mid": 4204.14,
+      "upper": 4634.0,
+      "lower": 3774.29
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,356.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,365.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold eyes $4,300 break as USD sticks to gains amid Fed hike bets, ahead of US CPI",
+      "link": "https://www.fxstreet.com/news/gold-eyes-4-300-break-as-usd-sticks-to-gains-amid-fed-hike-bets-ahead-of-us-cpi-202609110345",
+      "published_at_utc": "2026-09-11T03:45:50+00:00",
+      "title": "米国CPIを上回るFRBの利上げ観測の中で米ドルが上昇に固執する中、金は4,300ドルの突破を目指す"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold falls below $4,350 as rising oil prices, US PPI reinforces Fed hike bets",
       "link": "https://www.fxstreet.com/news/gold-falls-below-4-350-as-rising-oil-prices-us-ppi-reinforces-fed-hike-bets-202609102336",
       "published_at_utc": "2026-09-10T23:36:31+00:00",
-      "title": "Gold falls below $4,350 as rising oil prices, US PPI reinforces Fed hike bets"
+      "title": "原油価格上昇で金が4,350ドルを下回る、米国のPPIがFRB利上げ観測を裏付ける"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold bulls blink as hot US PPI, $100 Oil send yields flying",
       "link": "https://www.fxstreet.com/news/gold-bulls-blink-as-hot-us-ppi-100-oil-send-yields-flying-202609101729",
       "published_at_utc": "2026-09-10T17:29:00+00:00",
-      "title": "Gold bulls blink as hot US PPI, $100 Oil send yields flying"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
-      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107",
-      "published_at_utc": "2026-09-10T11:07:50+00:00",
-      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise"
+      "title": "米国のPPI、100ドルの上昇で金の強気派が瞬く間に原油利回りが急上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
