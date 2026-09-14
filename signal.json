@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-14T16:42:04.189982+00:00",
+  "generated_at_utc": "2026-09-14T20:34:49.224684+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4342.8,
+  "latest_price": 4336.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -29,45 +29,52 @@
       "label": "1時間足",
       "position_sigma": -0.35,
       "momentum": "FLAT",
-      "mid": 4352.22,
-      "upper": 4406.02,
-      "lower": 4298.41
+      "mid": 4345.86,
+      "upper": 4399.67,
+      "lower": 4292.05
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.02,
+      "position_sigma": 0.03,
       "momentum": "FLAT",
-      "mid": 4341.71,
-      "upper": 4465.22,
-      "lower": 4218.19
+      "mid": 4334.65,
+      "upper": 4455.35,
+      "lower": 4213.95
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.62,
+      "position_sigma": 0.58,
       "momentum": "FLAT",
-      "mid": 4210.63,
-      "upper": 4639.5,
-      "lower": 3781.77
+      "mid": 4212.05,
+      "upper": 4641.53,
+      "lower": 3782.57
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,342.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,336.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold gets squeezed by 5% Treasury yields as FOMC week begins",
+      "link": "https://www.fxstreet.com/news/gold-gets-squeezed-by-5-treasury-yields-as-fomc-week-begins-202609141909",
+      "published_at_utc": "2026-09-14T19:09:48+00:00",
+      "title": "FOMC週が始まると金は米国債利回り5％に圧迫される"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold: CTA liquidation and dip-buying narrative – TD Securities",
       "link": "https://www.fxstreet.com/news/gold-cta-liquidation-and-dip-buying-narrative-td-securities-202609141326",
       "published_at_utc": "2026-09-14T13:26:21+00:00",
-      "title": "Gold: CTA liquidation and dip-buying narrative – TD Securities"
+      "title": "金：CTA清算と押し目買いの物語 – TD Securities"
     },
     {
       "source": "FXStreet",
       "title_en": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%",
       "link": "https://www.fxstreet.com/news/gold-starts-the-week-lower-as-traders-await-fed-verdict-202609141130",
       "published_at_utc": "2026-09-14T11:30:18+00:00",
-      "title": "Gold falls as Fed rate hike bets, rising Oil push Treasury yields to 5%"
+      "title": "FRB利上げ予想で金下落、原油上昇で国債利回りは5%に上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
