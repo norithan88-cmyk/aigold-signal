@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-16T21:42:04.330788+00:00",
+  "generated_at_utc": "2026-09-16T23:50:13.653544+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4302.5,
+  "latest_price": 4309.1,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,34 +27,41 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.16,
+      "position_sigma": -0.86,
       "momentum": "FLAT",
-      "mid": 4335.77,
-      "upper": 4393.24,
-      "lower": 4278.3
+      "mid": 4333.77,
+      "upper": 4391.28,
+      "lower": 4276.27
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.17,
+      "position_sigma": 0.28,
       "momentum": "FLAT",
-      "mid": 4292.83,
-      "upper": 4407.6,
-      "lower": 4178.07
+      "mid": 4293.09,
+      "upper": 4407.89,
+      "lower": 4178.3
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.16,
+      "position_sigma": 0.19,
       "momentum": "FLAT",
-      "mid": 4267.87,
-      "upper": 4708.01,
-      "lower": 3827.72
+      "mid": 4268.13,
+      "upper": 4708.29,
+      "lower": 3827.96
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,302.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,309.1付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold falls to near $4,250 after Fed delivers rate hike",
+      "link": "https://www.fxstreet.com/news/gold-falls-to-near-4-250-after-fed-delivers-rate-hike-202609162325",
+      "published_at_utc": "2026-09-16T23:25:30+00:00",
+      "title": "Gold falls to near $4,250 after Fed delivers rate hike"
+    },
     {
       "source": "FXStreet",
       "title_en": "US Federal Reserve sends Gold to fresh one-month lows",
