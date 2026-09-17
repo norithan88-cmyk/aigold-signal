@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-17T07:51:50.344457+00:00",
+  "generated_at_utc": "2026-09-17T12:52:48.369054+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4371.0,
+  "latest_price": 4405.9,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:中央 / 4時間足:上方向 / 日足:中央 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:上方向 / 4時間足:上方向 / 日足:中央 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,54 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 1.3,
-      "momentum": "FLAT",
-      "mid": 4333.51,
-      "upper": 4391.3,
-      "lower": 4275.73
+      "position_sigma": 2.17,
+      "momentum": "UP",
+      "mid": 4339.22,
+      "upper": 4400.76,
+      "lower": 4277.67
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.37,
+      "position_sigma": 1.87,
       "momentum": "UP",
-      "mid": 4291.93,
-      "upper": 4407.76,
-      "lower": 4176.1
+      "mid": 4295.15,
+      "upper": 4413.47,
+      "lower": 4176.82
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.42,
+      "position_sigma": 0.57,
       "momentum": "FLAT",
-      "mid": 4278.79,
-      "upper": 4716.3,
-      "lower": 3841.27
+      "mid": 4280.16,
+      "upper": 4718.03,
+      "lower": 3842.3
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,371.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,405.9付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "Gold: Higher yields cap recovery prospects – OCBC",
-      "link": "https://www.fxstreet.com/news/gold-higher-yields-cap-recovery-prospects-ocbc-202609170736",
-      "published_at_utc": "2026-09-17T07:36:32+00:00",
-      "title": "金：利回りの上昇が回収見通しの上限となる – OCBC"
+      "title_en": "Gold climbs over 2% as US Dollar trims post-Fed gains",
+      "link": "https://www.fxstreet.com/news/gold-recovers-after-fed-led-sell-off-but-hawkish-outlook-caps-gains-202609171155",
+      "published_at_utc": "2026-09-17T11:55:23+00:00",
+      "title": "米ドルがFRB後の上昇幅を縮小する中、金は2%以上上昇"
     },
     {
       "source": "FXStreet",
-      "title_en": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609170435",
-      "published_at_utc": "2026-09-17T04:35:24+00:00",
-      "title": "今日のインドの金価格: FXStreet データによると、金は上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold retakes $4,300 amid modest USD pullback but hawkish Fed caps upside",
-      "link": "https://www.fxstreet.com/news/gold-stalls-recovery-from-six-week-low-as-usd-preserves-post-fed-gains-amid-iran-risks-202609170348",
-      "published_at_utc": "2026-09-17T03:48:19+00:00",
-      "title": "米ドルが小幅反落する中、金は4,300ドルを取り戻すも、タカ派のFRBが上値を抑える"
+      "title_en": "Gold Price Forecast: XAU/USD gains as oil rally eases, upside seems limited amid hawkish Fed bets",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-gains-as-oil-rally-eases-upside-seems-limited-amid-hawkish-fed-bets-202609171030",
+      "published_at_utc": "2026-09-17T10:30:21+00:00",
+      "title": "金価格予測：原油価格上昇が緩和するにつれてXAU/USDは上昇、FRBのタカ派的観測の中では上値は限られているようだ"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
