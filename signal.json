@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-18T10:02:18.656212+00:00",
+  "generated_at_utc": "2026-09-18T14:28:41.814253+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4415.5,
+  "latest_price": 4390.5,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,47 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.85,
+      "position_sigma": -0.44,
       "momentum": "FLAT",
-      "mid": 4392.44,
-      "upper": 4446.76,
-      "lower": 4338.12
+      "mid": 4401.64,
+      "upper": 4451.86,
+      "lower": 4351.43
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.77,
+      "position_sigma": 1.32,
       "momentum": "UP",
-      "mid": 4307.32,
-      "upper": 4429.65,
-      "lower": 4184.99
+      "mid": 4309.87,
+      "upper": 4431.89,
+      "lower": 4187.86
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.58,
+      "position_sigma": 0.47,
       "momentum": "FLAT",
-      "mid": 4288.5,
-      "upper": 4724.22,
-      "lower": 3852.78
+      "mid": 4287.52,
+      "upper": 4722.97,
+      "lower": 3852.06
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,415.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,390.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold rebound stalls as Treasury yields return toward multi-year highs",
+      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
+      "published_at_utc": "2026-09-18T11:32:13+00:00",
+      "title": "米国債利回りが数年ぶりの高水準に戻る中、金の反発は失速"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold Price Forecast: XAU/USD appreciates to $4,400 as yields retreat",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-appreciates-to-4-400-as-yields-retreat-202609180941",
       "published_at_utc": "2026-09-18T09:41:40+00:00",
       "title": "金価格予測: 利回りが低下する中、XAU/USD は 4,400 ドルまで上昇"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold flirts with $$4,400 as softer US bond yields offset hawkish Fed and bullish USD",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-hawkish-fed-and-middle-east-jitters-limit-usd-downside-202609180321",
-      "published_at_utc": "2026-09-18T03:21:07+00:00",
-      "title": "軟調な米国債利回りがタカ派FRBと強気の米ドルを相殺する中、金は4,400ドルと戯れる"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
