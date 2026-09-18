@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-17T22:57:01.824149+00:00",
+  "generated_at_utc": "2026-09-18T00:57:49.242076+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4382.6,
+  "latest_price": 4394.4,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,34 +27,41 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 0.72,
+      "position_sigma": 0.96,
       "momentum": "FLAT",
-      "mid": 4360.39,
-      "upper": 4421.78,
-      "lower": 4299.0
+      "mid": 4365.62,
+      "upper": 4425.3,
+      "lower": 4305.94
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.42,
+      "position_sigma": 1.57,
       "momentum": "UP",
-      "mid": 4297.5,
-      "upper": 4417.72,
-      "lower": 4177.27
+      "mid": 4299.73,
+      "upper": 4420.52,
+      "lower": 4178.93
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.47,
+      "position_sigma": 0.52,
       "momentum": "FLAT",
-      "mid": 4279.24,
-      "upper": 4716.87,
-      "lower": 3841.62
+      "mid": 4279.71,
+      "upper": 4717.45,
+      "lower": 3841.97
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,382.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,394.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold rebounds to near $4,350 on weaker US Dollar, falling oil prices",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-to-near-4-350-on-weaker-us-dollar-falling-oil-prices-202609172320",
+      "published_at_utc": "2026-09-17T23:20:22+00:00",
+      "title": "米ドル安と原油価格の下落を受けて、金は4,350ドル近くまで反発"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold shrugs off Fed hike as falling yields reopen path to $4,400",
