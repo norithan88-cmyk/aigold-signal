@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-21T14:03:17.585773+00:00",
+  "generated_at_utc": "2026-09-21T19:23:33.719752+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4388.2,
-  "day_change_pct": -0.0,
+  "latest_price": 4384.0,
+  "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
     "bias_label": "方向感なし",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.17,
+      "position_sigma": -1.09,
       "momentum": "FLAT",
-      "mid": 4418.51,
-      "upper": 4469.89,
-      "lower": 4367.13
+      "mid": 4413.16,
+      "upper": 4466.51,
+      "lower": 4359.8
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.98,
+      "position_sigma": 0.89,
       "momentum": "FLAT",
-      "mid": 4329.95,
-      "upper": 4448.74,
-      "lower": 4211.15
+      "mid": 4332.26,
+      "upper": 4449.19,
+      "lower": 4215.33
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.43,
+      "position_sigma": 0.41,
       "momentum": "FLAT",
-      "mid": 4294.84,
-      "upper": 4729.66,
-      "lower": 3860.03
+      "mid": 4294.67,
+      "upper": 4729.45,
+      "lower": 3859.89
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,388.2付近で推移（直近1時間比-0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,384.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -64,31 +64,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold: Range-bound outlook with Fed headwinds – ING",
-      "link": "https://www.fxstreet.com/news/gold-range-bound-outlook-with-fed-headwinds-ing-202609211116",
-      "published_at_utc": "2026-09-21T11:16:01+00:00",
-      "title": "金：FRBの逆風でレンジ内見通し – ING"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold struggles for direction as traders weigh Fed outlook and falling Oil prices",
+      "title_en": "Gold struggles near $4,350 as hawksih Fed outlook supports the Greenback",
       "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
       "published_at_utc": "2026-09-21T11:10:59+00:00",
-      "title": "トレーダーらがFRBの見通しと原油価格の下落を検討する中、金は方向性を模索するのに苦労している"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold Price Forecast: Struggles to hold above 20-day EMA",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-struggles-to-hold-above-20-day-ema-202609211042",
-      "published_at_utc": "2026-09-21T10:42:44+00:00",
-      "title": "金価格予測: 20日間EMAを上回るのに苦戦"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold remains depressed around $4,350 amid rate jitters, modest USD strength",
-      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-fed-hike-bets-and-geopolitics-lift-usd-ahead-of-trump-xi-summit-202609210536",
-      "published_at_utc": "2026-09-21T05:36:33+00:00",
-      "title": "金利の変動と米ドルの緩やかな強さの中で、金は依然として4,350ドル付近で低迷している"
+      "title": "FRBのタカ派見通しがドル安を支える中、金は4,350ドル付近でもがく"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
