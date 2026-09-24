@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-23T21:46:13.131173+00:00",
+  "generated_at_utc": "2026-09-24T00:06:11.215506+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4322.7,
+  "latest_price": 4326.6,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:下方向 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,47 +27,47 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.39,
-      "momentum": "DOWN",
-      "mid": 4348.46,
-      "upper": 4385.56,
-      "lower": 4311.36
+      "position_sigma": -0.89,
+      "momentum": "FLAT",
+      "mid": 4342.91,
+      "upper": 4380.12,
+      "lower": 4305.7
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.5,
+      "position_sigma": -0.43,
       "momentum": "FLAT",
-      "mid": 4345.89,
-      "upper": 4437.92,
-      "lower": 4253.86
+      "mid": 4346.03,
+      "upper": 4438.03,
+      "lower": 4254.04
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": 0.09,
+      "position_sigma": 0.11,
       "momentum": "FLAT",
-      "mid": 4303.41,
-      "upper": 4735.4,
-      "lower": 3871.41
+      "mid": 4303.56,
+      "upper": 4735.57,
+      "lower": 3871.55
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,322.7付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,326.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold falls below $4,300 on Fed hawkish signals",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-on-fed-hawkish-signals-202609232321",
+      "published_at_utc": "2026-09-23T23:21:32+00:00",
+      "title": "FRBのタカ派シグナルを受けて金は4,300ドルを下回る"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold buckles as 5% yields and Fed hawks take control",
       "link": "https://www.fxstreet.com/news/gold-buckles-as-5-yields-and-fed-hawks-take-control-202609231837",
       "published_at_utc": "2026-09-23T18:37:39+00:00",
       "title": "利回り5%とFRBタカ派が主導権を握ると金は低迷"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold: Next leg higher toward $5,000 – TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-next-leg-higher-toward-5-000-td-securities-202609231253",
-      "published_at_utc": "2026-09-23T12:53:12+00:00",
-      "title": "金：次の足は5,000ドルに向けて上昇 – TD Securities"
     },
     {
       "source": "FXStreet",
