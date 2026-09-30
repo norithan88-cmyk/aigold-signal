@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-09-29T22:45:30.882680+00:00",
+  "generated_at_utc": "2026-09-30T01:44:09.525675+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4209.9,
+  "latest_price": 4203.2,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -9,7 +9,7 @@
     "stars": 2,
     "confidence": 50,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:上方向 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
+      "timeframes_note": "1時間足:中央 / 4時間足:中央 / 日足:中央 → 3時間足の方向が一致していません",
       "calc_note": "3時間足の方向が揃っていないため、基本値50%のままです。"
     }
   },
@@ -27,34 +27,41 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 1.42,
-      "momentum": "UP",
-      "mid": 4158.18,
-      "upper": 4230.93,
-      "lower": 4085.42
+      "position_sigma": 1.25,
+      "momentum": "FLAT",
+      "mid": 4156.87,
+      "upper": 4231.19,
+      "lower": 4082.55
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -0.84,
+      "position_sigma": -0.91,
       "momentum": "FLAT",
-      "mid": 4252.49,
-      "upper": 4353.78,
-      "lower": 4151.2
+      "mid": 4249.55,
+      "upper": 4350.96,
+      "lower": 4148.15
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.46,
+      "position_sigma": -0.49,
       "momentum": "FLAT",
-      "mid": 4308.14,
-      "upper": 4735.39,
-      "lower": 3880.9
+      "mid": 4307.9,
+      "upper": 4731.42,
+      "lower": 3884.37
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,209.9付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,203.2付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold rebounds from eight-week low as traders weigh Fed rate path",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-from-eight-week-low-as-traders-weigh-fed-rate-path-202609292331",
+      "published_at_utc": "2026-09-29T23:31:10+00:00",
+      "title": "トレーダーらがFRBの金利方針を検討中、金は8週間ぶりの安値から反発"
+    },
     {
       "source": "FXStreet",
       "title_en": "Gold springs from $4,110 as Oil rout eases inflation heat",
