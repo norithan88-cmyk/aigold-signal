@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-07T12:17:38.574732+00:00",
+  "generated_at_utc": "2026-10-07T19:00:03.249367+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4149.6,
+  "latest_price": 4138.2,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,34 +27,41 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -0.66,
+      "position_sigma": -0.64,
       "momentum": "FLAT",
-      "mid": 4160.85,
-      "upper": 4195.12,
-      "lower": 4126.59
+      "mid": 4149.87,
+      "upper": 4186.56,
+      "lower": 4113.19
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.27,
+      "position_sigma": 0.13,
       "momentum": "FLAT",
-      "mid": 4137.66,
-      "upper": 4224.97,
-      "lower": 4050.36
+      "mid": 4132.52,
+      "upper": 4217.96,
+      "lower": 4047.08
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.86,
+      "position_sigma": -0.92,
       "momentum": "FLAT",
-      "mid": 4316.68,
-      "upper": 4705.22,
-      "lower": 3928.15
+      "mid": 4316.23,
+      "upper": 4704.97,
+      "lower": 3927.49
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,149.6付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,138.2付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
+    {
+      "source": "FXStreet",
+      "title_en": "Gold: Dip buying case builds into 2027 – TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-dip-buying-case-builds-into-2027-td-securities-202610071432",
+      "published_at_utc": "2026-10-07T14:32:48+00:00",
+      "title": "金：2027年までの押し目買いの可能性 – TD Securities"
+    },
     {
       "source": "FXStreet",
       "title_en": "Silver Price Forecasts: XAG/USD drifts toward $60 as precious metals struggle",
@@ -64,31 +71,10 @@
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold falls as US Dollar, Treasury yields rebound ahead of Fed Minutes",
+      "title_en": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
       "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
       "published_at_utc": "2026-10-07T10:45:01+00:00",
-      "title": "FRB議事録を前に米ドルが下落、国債利回りが回復するにつれ金が下落"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Warning signal: Gold's failure at the 200-day moving average puts $3,940 in play",
-      "link": "https://www.fxstreet.com/news/warning-signal-golds-failure-at-the-200-day-moving-average-puts-3-940-in-play-202610071037",
-      "published_at_utc": "2026-10-07T10:37:34+00:00",
-      "title": "警告信号: 金が 200 日移動平均で失敗すると、3,940 ドルのリスクが生じる"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold Price Forecast: XAU/USD retraces gains and nears two-month lows at $4,104",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-retraces-gains-and-nears-two-month-lows-at-4-104-202610070946",
-      "published_at_utc": "2026-10-07T09:46:54+00:00",
-      "title": "金価格予測：XAU/USDは上昇を取り戻し、2カ月ぶり安値の4,104ドルに近づく"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold seems vulnerable near two-month low amid bullish USD; focus remains on FOMC Minutes",
-      "link": "https://www.fxstreet.com/news/gold-weakens-amid-renewed-usd-strength-and-higher-bond-yields-ahead-of-fomc-minutes-202610070432",
-      "published_at_utc": "2026-10-07T04:32:05+00:00",
-      "title": "米ドルが強気になる中、金は2カ月ぶり安値付近で脆弱なようだ。焦点は引き続きFOMC議事録にある"
+      "title": "金は米ドルで4,100ドルを試し、FOMC議事録を前に利回りが上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
