@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-09T07:59:10.755090+00:00",
+  "generated_at_utc": "2026-10-09T15:01:39.727950+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4216.5,
+  "latest_price": 4207.4,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,47 +27,54 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": 2.38,
+      "position_sigma": 1.34,
       "momentum": "UP",
-      "mid": 4161.61,
-      "upper": 4207.78,
-      "lower": 4115.44
+      "mid": 4173.85,
+      "upper": 4223.9,
+      "lower": 4123.8
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 2.65,
+      "position_sigma": 2.27,
       "momentum": "UP",
-      "mid": 4109.81,
-      "upper": 4190.45,
-      "lower": 4029.16
+      "mid": 4110.76,
+      "upper": 4195.8,
+      "lower": 4025.73
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.52,
+      "position_sigma": -0.57,
       "momentum": "FLAT",
-      "mid": 4317.12,
-      "upper": 4700.18,
-      "lower": 3934.06
+      "mid": 4316.75,
+      "upper": 4699.91,
+      "lower": 3933.58
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,216.5付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,207.4付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
-      "title_en": "India Gold price today: Gold rises, according to FXStreet data",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610090439",
-      "published_at_utc": "2026-10-09T04:39:46+00:00",
-      "title": "今日のインドの金価格: FXStreet データによると、金は上昇"
+      "title_en": "Gold: Short covering signals renewed bullish momentum - TD Securities",
+      "link": "https://www.fxstreet.com/news/gold-short-covering-signals-renewed-bullish-momentum-td-securities-202610091358",
+      "published_at_utc": "2026-10-09T13:58:54+00:00",
+      "title": "金：ショートカバーが再び強気の勢いを示唆 - TD Securities"
     },
     {
       "source": "FXStreet",
-      "title_en": "Gold holds near weekly high, around $4,200 on weak USD as Fed hike bets cap gains",
-      "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
-      "published_at_utc": "2026-10-09T03:55:55+00:00",
-      "title": "FRBの利上げが利益の上限を狙う中、金は週間高値付近、米ドル安で4,200ドル付近を維持"
+      "title_en": "Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise",
+      "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
+      "published_at_utc": "2026-10-09T11:00:03+00:00",
+      "title": "米ドルと国債利回りが安定する中、金の回収は4,200ドル付近で失速"
+    },
+    {
+      "source": "FXStreet",
+      "title_en": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-to-4-200-as-us-yields-retreat-202610091009",
+      "published_at_utc": "2026-10-09T10:09:51+00:00",
+      "title": "金価格予測：米国利回りが後退する中、XAU/USDは4,200ドルに上昇"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
