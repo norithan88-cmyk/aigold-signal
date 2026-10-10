@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T11:23:09.725085+00:00",
+  "generated_at_utc": "2026-10-10T16:17:55.445598+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4216.3,
   "day_change_pct": -0.09,
@@ -30,17 +30,17 @@
       "position_sigma": 1.19,
       "momentum": "FLAT",
       "mid": 4185.31,
-      "upper": 4237.44,
-      "lower": 4133.17
+      "upper": 4237.47,
+      "lower": 4133.16
     },
     {
       "key": "h4",
       "label": "4時間足",
       "position_sigma": 2.26,
       "momentum": "UP",
-      "mid": 4113.92,
+      "mid": 4113.91,
       "upper": 4204.44,
-      "lower": 4023.4
+      "lower": 4023.38
     },
     {
       "key": "d1",
@@ -61,13 +61,6 @@
       "link": "https://www.fxstreet.com/news/gold-reclaims-4-200-as-weak-us-sentiment-revives-bullion-demand-202610091804",
       "published_at_utc": "2026-10-09T18:04:49+00:00",
       "title": "米国の景気低迷で地金需要が回復、金は4,200ドルを回収"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold: Short covering signals renewed bullish momentum - TD Securities",
-      "link": "https://www.fxstreet.com/news/gold-short-covering-signals-renewed-bullish-momentum-td-securities-202610091358",
-      "published_at_utc": "2026-10-09T13:58:54+00:00",
-      "title": "金：ショートカバーが再び強気の勢いを示唆 - TD Securities"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
