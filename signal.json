@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T05:45:04.919475+00:00",
+  "generated_at_utc": "2026-10-10T11:23:09.725085+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4216.3,
   "day_change_pct": -0.09,
@@ -29,9 +29,9 @@
       "label": "1時間足",
       "position_sigma": 1.19,
       "momentum": "FLAT",
-      "mid": 4185.32,
-      "upper": 4237.46,
-      "lower": 4133.19
+      "mid": 4185.31,
+      "upper": 4237.44,
+      "lower": 4133.17
     },
     {
       "key": "h4",
@@ -39,8 +39,8 @@
       "position_sigma": 2.26,
       "momentum": "UP",
       "mid": 4113.92,
-      "upper": 4204.43,
-      "lower": 4023.41
+      "upper": 4204.44,
+      "lower": 4023.4
     },
     {
       "key": "d1",
@@ -68,13 +68,6 @@
       "link": "https://www.fxstreet.com/news/gold-short-covering-signals-renewed-bullish-momentum-td-securities-202610091358",
       "published_at_utc": "2026-10-09T13:58:54+00:00",
       "title": "金：ショートカバーが再び強気の勢いを示唆 - TD Securities"
-    },
-    {
-      "source": "FXStreet",
-      "title_en": "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
-      "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
-      "published_at_utc": "2026-10-09T11:00:03+00:00",
-      "title": "金はじりじりと上昇するも、ドルと利回りが反発する中、依然として狭いレンジ内にとどまっている"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
