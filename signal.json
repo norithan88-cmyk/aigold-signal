@@ -1,7 +1,7 @@
 {
-  "generated_at_utc": "2026-10-13T20:44:31.340446+00:00",
+  "generated_at_utc": "2026-10-13T23:55:54.642375+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4180.9,
+  "latest_price": 4179.0,
   "day_change_pct": 0.0,
   "signal": {
     "bias": "WAIT",
@@ -27,33 +27,33 @@
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -1.63,
+      "position_sigma": -1.53,
       "momentum": "DOWN",
-      "mid": 4218.34,
-      "upper": 4264.27,
-      "lower": 4172.41
+      "mid": 4214.79,
+      "upper": 4261.53,
+      "lower": 4168.06
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 0.9,
+      "position_sigma": 0.87,
       "momentum": "FLAT",
-      "mid": 4136.05,
-      "upper": 4235.27,
-      "lower": 4036.82
+      "mid": 4135.97,
+      "upper": 4235.16,
+      "lower": 4036.78
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.72,
+      "position_sigma": -0.73,
       "momentum": "FLAT",
-      "mid": 4317.16,
-      "upper": 4695.66,
-      "lower": 3938.67
+      "mid": 4317.09,
+      "upper": 4695.61,
+      "lower": 3938.56
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
-  "market_context": "金（GC=F）は現在$4,180.9付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "market_context": "金（GC=F）は現在$4,179.0付近で推移（直近1時間比+0.00%）。1時間・4時間・日足の方向が揃っておらず、方向感に乏しいレンジ地合い。明確な方向一致が出るまでは、無理に取りにいかず様子見が無難な局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [
     {
       "source": "FXStreet",
@@ -67,7 +67,7 @@
       "title_en": "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI looms",
       "link": "https://www.fxstreet.com/news/gold-struggles-below-4-200-despite-retreat-in-us-dollar-treasury-yields-202610131056",
       "published_at_utc": "2026-10-13T10:56:48+00:00",
-      "title": "FRBの利上げリスクが根強く、米国のCPIが迫る中、金は4,200ドルを取り戻すのに苦戦している"
+      "title": "FRBの利上げリスクが根強く、米国CPIが迫る中、金は4,200ドルを取り戻すのに苦戦している"
     }
   ],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
