@@ -1,59 +1,62 @@
 {
-  "generated_at_utc": "2026-10-22T21:30:43.747492+00:00",
+  "generated_at_utc": "2026-10-23T00:09:00.411406+00:00",
   "pair": "GOLD (GC=F)",
-  "latest_price": 4039.8,
+  "latest_price": 4038.2,
   "day_change_pct": 0.0,
   "signal": {
-    "bias": "WAIT",
-    "bias_label": "方向感なし",
-    "stars": 2,
-    "confidence": 50,
+    "bias": "SELL",
+    "bias_label": "戻り売り優勢",
+    "stars": 5,
+    "confidence": 91,
     "confidence_breakdown": {
-      "timeframes_note": "1時間足:下方向 / 4時間足:下方向 / 日足:下方向 → 3時間足は一致していますが、15分足の反発シグナルはまだ点灯していません",
-      "calc_note": "3時間足の方向一致のみでは確信度は上がらず、15分足の反発確認まで基本値50%のままです。"
+      "timeframes_note": "1時間足:下方向 / 4時間足:下方向 / 日足:下方向 → 3時間足すべて一致、15分足の反発シグナルも確認済み",
+      "calc_note": "基本50% + 3時間足一致30% + チャネル際からの乖離度ボーナス = 91%（上限95%）"
     }
   },
   "volatility_risk": "LOW",
   "market_mode": "TREND",
   "market_mode_note": "1時間・4時間・日足の方向が揃っており、方向感のある地合い。",
   "priority_trade": {
-    "lead": "様子見 ― 上位足は戻り売り方向で一致、15分足の反落シグナル待ち",
-    "entry": null,
-    "take_profit": null,
-    "stop_loss": null
+    "lead": "戻り売り ― 上位足の下降方向一致＋15分足の戻りからの反落",
+    "entry": 4038.2,
+    "take_profit": 4029.8,
+    "stop_loss": 4052.6
   },
-  "reversal_setup": null,
+  "reversal_setup": {
+    "extreme": 4046.6,
+    "reverted_usd": 8.4
+  },
   "regression_channels": [
     {
       "key": "h1",
       "label": "1時間足",
-      "position_sigma": -2.45,
+      "position_sigma": -2.11,
       "momentum": "DOWN",
-      "mid": 4084.81,
-      "upper": 4121.56,
-      "lower": 4048.06
+      "mid": 4078.81,
+      "upper": 4117.27,
+      "lower": 4040.35
     },
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": -3.11,
+      "position_sigma": -3.15,
       "momentum": "DOWN",
-      "mid": 4140.3,
-      "upper": 4204.91,
-      "lower": 4075.69
+      "mid": 4140.24,
+      "upper": 4204.95,
+      "lower": 4075.52
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.48,
+      "position_sigma": -1.49,
       "momentum": "DOWN",
-      "mid": 4309.27,
-      "upper": 4672.49,
-      "lower": 3946.04
+      "mid": 4309.2,
+      "upper": 4672.48,
+      "lower": 3945.93
     }
   ],
-  "commentary": "上位足は下向き。焦らず、15分足の戻りからの反落を待つ。",
-  "market_context": "金（GC=F）は現在$4,039.8付近で推移（直近1時間比+0.00%）。1時間・4時間・日足は戻り売り方向で揃っているが、15分足の反落シグナルはまだ点灯していない。上位足の方向感は出ているため、15分足が戻り高値から反落するタイミングを待ちたい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
+  "commentary": "強い相場ほど、飛び乗らない。戻りを丁寧に売る一日に。",
+  "market_context": "金（GC=F）は現在$4,038.2付近で推移（直近1時間比+0.00%）。1時間・4時間・日足が揃って上値の重さを示す中、15分足が短期的な戻りから反落したタイミング。目先は上値の重い展開が想定され、高値を追わず戻りを待つスタンスが機能しやすい局面。※このまとめは実データから自動生成された定型解説です。個別のニュース速報の内容までは反映していません。",
   "news": [],
   "disclaimer": "本データはルールベースの参考情報であり、投資成果を保証するものではありません。"
 }
