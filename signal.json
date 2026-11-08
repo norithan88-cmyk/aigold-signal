@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-08T19:50:11.646515+00:00",
+  "generated_at_utc": "2026-11-08T23:16:20.904458+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 4074.9,
   "day_change_pct": 0.0,
@@ -36,20 +36,20 @@
     {
       "key": "h4",
       "label": "4時間足",
-      "position_sigma": 1.49,
+      "position_sigma": 1.43,
       "momentum": "UP",
-      "mid": 3975.06,
-      "upper": 4109.5,
-      "lower": 3840.61
+      "mid": 3977.91,
+      "upper": 4113.67,
+      "lower": 3842.14
     },
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -0.82,
+      "position_sigma": -0.8,
       "momentum": "FLAT",
-      "mid": 4232.29,
-      "upper": 4616.2,
-      "lower": 3848.39
+      "mid": 4229.03,
+      "upper": 4613.05,
+      "lower": 3845.02
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
