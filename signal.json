@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-13T23:01:45.925725+00:00",
+  "generated_at_utc": "2026-11-14T03:09:24.929787+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 3887.6,
   "day_change_pct": 0.0,
@@ -29,18 +29,18 @@
       "label": "1時間足",
       "position_sigma": 1.44,
       "momentum": "UP",
-      "mid": 3851.63,
-      "upper": 3901.55,
-      "lower": 3801.7
+      "mid": 3851.61,
+      "upper": 3901.52,
+      "lower": 3801.71
     },
     {
       "key": "h4",
       "label": "4時間足",
       "position_sigma": -1.58,
       "momentum": "DOWN",
-      "mid": 4002.57,
-      "upper": 4148.25,
-      "lower": 3856.88
+      "mid": 4002.55,
+      "upper": 4148.24,
+      "lower": 3856.86
     },
     {
       "key": "d1",
