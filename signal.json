@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-28T04:28:43.842997+00:00",
+  "generated_at_utc": "2026-11-28T13:26:28.203253+00:00",
   "pair": "GOLD (GC=F)",
   "latest_price": 3674.2,
   "day_change_pct": -0.01,
@@ -45,11 +45,11 @@
     {
       "key": "d1",
       "label": "日足",
-      "position_sigma": -1.37,
+      "position_sigma": -1.49,
       "momentum": "DOWN",
-      "mid": 3971.01,
-      "upper": 4413.86,
-      "lower": 3528.17
+      "mid": 3969.88,
+      "upper": 4413.55,
+      "lower": 3526.2
     }
   ],
   "commentary": "方向感のない日は、休むも相場。無理に取りにいかない。",
